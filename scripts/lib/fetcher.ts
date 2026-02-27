@@ -1,14 +1,18 @@
 /**
- * Rate-limited HTTP client for Sri Lanka Law (lawnet.gov.lk)
+ * Rate-limited HTTP client for Sri Lanka Law (CommonLII)
  *
- * - 500ms minimum delay between requests (be respectful to government servers)
+ * - 500ms minimum delay between requests (be respectful to servers)
  * - User-Agent header identifying the MCP
- * - Fetches structured AKN HTML from lawnet.gov.lk
+ * - Fetches HTML from commonlii.org/lk/
+ * - SSL verification disabled (CommonLII has certificate issues)
  * - No auth needed (Government Open Data)
  */
 
 const USER_AGENT = 'srilanka-law-mcp/1.0 (https://github.com/Ansvar-Systems/srilanka-law-mcp; hello@ansvar.ai)';
 const MIN_DELAY_MS = 500;
+
+// Disable SSL verification for CommonLII (certificate issues)
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 let lastRequestTime = 0;
 
@@ -36,30 +40,41 @@ export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<F
   await rateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html, */*',
-      },
-      redirect: 'follow',
-    });
+    try {
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': USER_AGENT,
+          'Accept': 'text/html, */*',
+        },
+        redirect: 'follow',
+      });
 
-    if (response.status === 429 || response.status >= 500) {
+      if (response.status === 429 || response.status >= 500) {
+        if (attempt < maxRetries) {
+          const backoff = Math.pow(2, attempt + 1) * 1000;
+          console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
+          await new Promise(resolve => setTimeout(resolve, backoff));
+          continue;
+        }
+      }
+
+      const body = await response.text();
+      return {
+        status: response.status,
+        body,
+        contentType: response.headers.get('content-type') ?? '',
+        url: response.url,
+      };
+    } catch (error) {
       if (attempt < maxRetries) {
         const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
+        const msg = error instanceof Error ? error.message : String(error);
+        console.log(`  Fetch error for ${url}: ${msg}, retrying in ${backoff}ms...`);
         await new Promise(resolve => setTimeout(resolve, backoff));
         continue;
       }
+      throw error;
     }
-
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
   }
 
   throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);

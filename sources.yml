@@ -4,29 +4,32 @@ mcp_name: "Sri Lanka Law MCP"
 jurisdiction: "LK"
 
 sources:
-  - name: "Sri Lanka Official Legal Database"
-    authority: "Government of Sri Lanka"
-    official_portal: "https://lawnet.gov.lk"
-    canonical_identifier: "TBD"
-    retrieval_method: "HTML"
+  - name: "CommonLII Sri Lankan Legal Materials"
+    authority: "Commonwealth Legal Information Institute"
+    official_portal: "https://www.commonlii.org/lk/"
+    canonical_identifier: "CommonLII-LK"
+    retrieval_method: "HTML (section-per-page)"
     api_documentation: "N/A"
-    update_frequency: "TBD"
-    last_ingested: "PENDING_FIRST_INGEST"
+    update_frequency: "Irregular (last updated 2009)"
+    last_ingested: "2026-02-27"
     license_or_terms:
       type: "Government Publication"
-      url: "https://lawnet.gov.lk"
-      summary: "Official government legal database; legislation is public domain as government publication"
+      url: "https://www.commonlii.org/commonlii/copyright.html"
+      summary: "Sri Lanka Government copyright; data based on official LawNet.lk"
     coverage:
-      scope: "TBD -- update after census"
-      limitations: "TBD -- update after census"
+      scope: "2,054 numbered acts (1956-2006), 516 consolidated acts (1980 revised edition, PDF-only excluded)"
+      limitations: "Database last updated 2009; does not include legislation enacted after 2006; consolidated acts are PDF-only"
     languages:
       - "en"
 
 data_freshness:
   automated_checks: false
-  check_frequency: "TBD"
+  check_frequency: "manual"
   last_verified: "2026-02-27"
 
 # Notes:
-# - Source URL: lawnet.gov.lk
-# - Update this file after completing census and first ingestion
+# - Primary source: CommonLII numbered acts (HTML section-per-page)
+# - Consolidated acts excluded (PDF/OCR only, poor text quality)
+# - lawnet.gov.lk is a JavaScript SPA and not scrapable via curl
+# - parliament.lk serves PDFs only
+# - SSL certificate issues on commonlii.org (use NODE_TLS_REJECT_UNAUTHORIZED=0)

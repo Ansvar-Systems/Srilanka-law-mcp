@@ -10,7 +10,7 @@ export interface SearchEUImplementationsInput {
   type?: 'directive' | 'regulation';
   year_from?: number;
   year_to?: number;
-  has_sri lankan_implementation?: boolean;
+  has_srilankan_implementation?: boolean;
   limit?: number;
 }
 
@@ -21,7 +21,7 @@ export interface EUImplementationSearchResult {
   number: number;
   title: string | null;
   short_name: string | null;
-  sri lankan_statute_count: number;
+  srilankan_statute_count: number;
 }
 
 export async function searchEUImplementations(
@@ -50,7 +50,7 @@ export async function searchEUImplementations(
       ed.number,
       ed.title,
       ed.short_name,
-      COUNT(DISTINCT er.document_id) as sri lankan_statute_count
+      COUNT(DISTINCT er.document_id) as srilankan_statute_count
     FROM eu_documents ed
     LEFT JOIN eu_references er ON er.eu_document_id = ed.id
     WHERE 1=1
@@ -79,8 +79,8 @@ export async function searchEUImplementations(
 
   sql += ' GROUP BY ed.id';
 
-  if (input.has_sri lankan_implementation) {
-    sql += ' HAVING sri lankan_statute_count > 0';
+  if (input.has_srilankan_implementation) {
+    sql += ' HAVING srilankan_statute_count > 0';
   }
 
   sql += ' ORDER BY ed.year DESC, ed.number DESC LIMIT ?';

@@ -1,18 +1,18 @@
 /**
- * get_sri lankan_implementations — Find Sri Lankan statutes implementing a specific EU directive/regulation
+ * get_sri lankan_implementations — Find SriLankan statutes implementing a specific EU directive/regulation
  * or international framework.
  */
 
 import type Database from '@ansvar/mcp-sqlite';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
-export interface GetSri LankanImplementationsInput {
+export interface GetSriLankanImplementationsInput {
   eu_document_id: string;
   primary_only?: boolean;
   in_force_only?: boolean;
 }
 
-export interface Sri LankanImplementationResult {
+export interface SriLankanImplementationResult {
   document_id: string;
   document_title: string;
   status: string;
@@ -22,10 +22,10 @@ export interface Sri LankanImplementationResult {
   reference_count: number;
 }
 
-export async function getSri LankanImplementations(
+export async function getSriLankanImplementations(
   db: InstanceType<typeof Database>,
-  input: GetSri LankanImplementationsInput,
-): Promise<ToolResponse<Sri LankanImplementationResult[]>> {
+  input: GetSriLankanImplementationsInput,
+): Promise<ToolResponse<SriLankanImplementationResult[]>> {
   try {
     db.prepare('SELECT 1 FROM eu_references LIMIT 1').get();
   } catch {
@@ -63,6 +63,6 @@ export async function getSri LankanImplementations(
 
   sql += ' GROUP BY ld.id, er.reference_type ORDER BY is_primary DESC, reference_count DESC';
 
-  const rows = db.prepare(sql).all(...params) as Sri LankanImplementationResult[];
+  const rows = db.prepare(sql).all(...params) as SriLankanImplementationResult[];
   return { results: rows, _metadata: generateResponseMetadata(db) };
 }

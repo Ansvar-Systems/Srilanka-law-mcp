@@ -18,7 +18,7 @@ import { buildLegalStance, type BuildLegalStanceInput } from './build-legal-stan
 import { formatCitationTool, type FormatCitationInput } from './format-citation.js';
 import { checkCurrency, type CheckCurrencyInput } from './check-currency.js';
 import { getEUBasis, type GetEUBasisInput } from './get-eu-basis.js';
-import { getSri LankanImplementations, type GetSri LankanImplementationsInput } from './get-sri lankan-implementations.js';
+import { getSriLankanImplementations, type GetSriLankanImplementationsInput } from './get-srilankan-implementations.js';
 import { searchEUImplementations, type SearchEUImplementationsInput } from './search-eu-implementations.js';
 import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './get-provision-eu-basis.js';
 import { validateEUCompliance, type ValidateEUComplianceInput } from './validate-eu-compliance.js';
@@ -222,7 +222,7 @@ export const TOOLS: Tool[] = [
     },
   },
   {
-    name: 'get_sri lankan_implementations',
+    name: 'get_srilankan_implementations',
     description:
       'Find all Sri Lankan statutes that align with or implement a specific EU directive or regulation. ' +
       'Given an EU document ID (e.g., "regulation:2016/679" for GDPR), returns matching Sri Lankan statutes. ' +
@@ -260,7 +260,7 @@ export const TOOLS: Tool[] = [
         type: { type: 'string', enum: ['directive', 'regulation'], description: 'Filter by EU document type.' },
         year_from: { type: 'number', description: 'Filter by year (from).' },
         year_to: { type: 'number', description: 'Filter by year (to).' },
-        has_sri lankan_implementation: {
+        has_srilankan_implementation: {
           type: 'boolean',
           description: 'If true, only return EU documents with Sri Lankan aligning legislation.',
         },
@@ -362,8 +362,8 @@ export function registerTools(
         case 'get_eu_basis':
           result = await getEUBasis(db, args as unknown as GetEUBasisInput);
           break;
-        case 'get_sri lankan_implementations':
-          result = await getSri LankanImplementations(db, args as unknown as GetSri LankanImplementationsInput);
+        case 'get_srilankan_implementations':
+          result = await getSriLankanImplementations(db, args as unknown as GetSriLankanImplementationsInput);
           break;
         case 'search_eu_implementations':
           result = await searchEUImplementations(db, args as unknown as SearchEUImplementationsInput);
