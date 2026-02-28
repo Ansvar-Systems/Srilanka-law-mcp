@@ -10,7 +10,7 @@
 | Authority | Commonwealth Legal Information Institute |
 | Portal | [www.commonlii.org/lk](https://www.commonlii.org/lk/) |
 | License | Government Publication |
-| Census date | 2026-02-28 |
+| Census date | 2026-02-27 |
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | Ingested | 2,055 |
 | Excluded | 516 |
 | Provisions extracted | 32,790 |
-| **Coverage** | **100.0%** |
+| **Coverage** | **100%** |
 
 ## Laws (2,055 ingested)
 
@@ -2082,3 +2082,523 @@
 | Young Men's Muslim Association, Maligawatta, Colombo, Law (No. 30 of 1974) | [link](https://www.commonlii.org/lk/legis/num_act/ymmamcl30o1974563/) | in_force | 19 |
 | Youth Corps Act (No. 21 of 2002) | [link](https://www.commonlii.org/lk/legis/num_act/yca21o2002217/) | in_force | 20 |
 | Zahira College, Colombo, Board Of Governors (Incorporation) Act (No. 18 of 1982) | [link](https://www.commonlii.org/lk/legis/num_act/zccboga18o1982576/) | in_force | 11 |
+
+## Not Ingested (515)
+
+| Title | Official URL | Reason |
+|-------|-------------|--------|
+| Administrative Districts (Chapter 6) | [link](https://www.commonlii.org/lk/legis/consol_act/ad6326/) | excluded |
+| Adoption of Children (Chapter 76) | [link](https://www.commonlii.org/lk/legis/consol_act/aoc76234/) | excluded |
+| Affidavits (Chapter 24) | [link](https://www.commonlii.org/lk/legis/consol_act/a24151/) | excluded |
+| Age of Majority (Chapter 79) | [link](https://www.commonlii.org/lk/legis/consol_act/aom79196/) | excluded |
+| Agrarian Services (Chapter 261) | [link](https://www.commonlii.org/lk/legis/consol_act/as261217/) | excluded |
+| Agricultural Corps (Chapter 270) | [link](https://www.commonlii.org/lk/legis/consol_act/ac270261/) | excluded |
+| Agricultural Insurance (Chapter 271) | [link](https://www.commonlii.org/lk/legis/consol_act/ai271290/) | excluded |
+| Agricultural Produce (Grading and Marketing) (Chapter 198) | [link](https://www.commonlii.org/lk/legis/consol_act/apam198428/) | excluded |
+| Agricultural Produce Agents (Registration) (Chapter 199) | [link](https://www.commonlii.org/lk/legis/consol_act/apa199473/) | excluded |
+| Agricultural Products (Guaranteed Prices and Control of Hulling and Milling) (Chapter 203) | [link](https://www.commonlii.org/lk/legis/consol_act/appacoham203739/) | excluded |
+| Agricultural Products (Regulation) (Chapter 197) | [link](https://www.commonlii.org/lk/legis/consol_act/ap197415/) | excluded |
+| Air Force (Chapter 627) | [link](https://www.commonlii.org/lk/legis/consol_act/af627131/) | excluded |
+| Airports Authority (Chapter 229) | [link](https://www.commonlii.org/lk/legis/consol_act/aa229300/) | excluded |
+| All Ceylon Buddhist Students' Federation (Chapter 421) | [link](https://www.commonlii.org/lk/legis/consol_act/acbsf421434/) | excluded |
+| All Ceyon Budhhist Congress (Chapter 398) | [link](https://www.commonlii.org/lk/legis/consol_act/acbc398318/) | excluded |
+| All-Ceylon Young Men's Muslim Association (Chapter 461) | [link](https://www.commonlii.org/lk/legis/consol_act/aymma461473/) | excluded |
+| American Mission (Chapter 439) | [link](https://www.commonlii.org/lk/legis/consol_act/am439211/) | excluded |
+| Animals (Chapter 570) | [link](https://www.commonlii.org/lk/legis/consol_act/a570126/) | excluded |
+| Antiquities (Chapter 394) | [link](https://www.commonlii.org/lk/legis/consol_act/a394197/) | excluded |
+| Anuradhapura Buddhist Association (Chapter 413) | [link](https://www.commonlii.org/lk/legis/consol_act/aba413369/) | excluded |
+| Arbitration (Chapter 104) | [link](https://www.commonlii.org/lk/legis/consol_act/a104180/) | excluded |
+| Army (Chapter 625) | [link](https://www.commonlii.org/lk/legis/consol_act/a625117/) | excluded |
+| Arts Council of Ceylon (Chapter 469) | [link](https://www.commonlii.org/lk/legis/consol_act/acoc469275/) | excluded |
+| Asian Development Bank Agreement (Ratification) (Chapter 314) | [link](https://www.commonlii.org/lk/legis/consol_act/adba314439/) | excluded |
+| Assemblies of God of Ceylon (Chapter 445) | [link](https://www.commonlii.org/lk/legis/consol_act/aogoc445287/) | excluded |
+| Assignment of Ministers' Functions (Chapter 3) | [link](https://www.commonlii.org/lk/legis/consol_act/aomf3423/) | excluded |
+| Atomic Energy Authority (Chapter 223) | [link](https://www.commonlii.org/lk/legis/consol_act/aea223315/) | excluded |
+| Auctioneers and Brokers (Chapter 125) | [link](https://www.commonlii.org/lk/legis/consol_act/aab125280/) | excluded |
+| Auditor-General's Fees (Chapter 324) | [link](https://www.commonlii.org/lk/legis/consol_act/af324249/) | excluded |
+| Automobile Association of Ceylon (Chapter 487) | [link](https://www.commonlii.org/lk/legis/consol_act/aaoc487368/) | excluded |
+| Ayurveda (Chapter 116) | [link](https://www.commonlii.org/lk/legis/consol_act/a116153/) | excluded |
+| Baadhi Beeya Association (Chapter 463) | [link](https://www.commonlii.org/lk/legis/consol_act/bba463230/) | excluded |
+| Back to the Bible Broadcast (Chapter 451) | [link](https://www.commonlii.org/lk/legis/consol_act/bttbb451239/) | excluded |
+| Badulla Saiva Paripalana Sangam (Chapter 458) | [link](https://www.commonlii.org/lk/legis/consol_act/bsps458285/) | excluded |
+| Bank of Ceylon (Chapter 302) | [link](https://www.commonlii.org/lk/legis/consol_act/boc302175/) | excluded |
+| Baticaloa Waterworks (Chapter 543) | [link](https://www.commonlii.org/lk/legis/consol_act/bw543262/) | excluded |
+| Betting on Horse-Racing (Chapter 55) | [link](https://www.commonlii.org/lk/legis/consol_act/boh55267/) | excluded |
+| Bills of Exchange (Chapter 92) | [link](https://www.commonlii.org/lk/legis/consol_act/boe92191/) | excluded |
+| Births and Death (Chapter 129) | [link](https://www.commonlii.org/lk/legis/consol_act/bad129183/) | excluded |
+| Boatmen (Chapter 236) | [link](https://www.commonlii.org/lk/legis/consol_act/b236127/) | excluded |
+| Boats (Chapter 535) | [link](https://www.commonlii.org/lk/legis/consol_act/b535116/) | excluded |
+| Botanic Gardens (Chapter 275) | [link](https://www.commonlii.org/lk/legis/consol_act/bg275182/) | excluded |
+| Bretton Woods Agreement (Chapter 327) | [link](https://www.commonlii.org/lk/legis/consol_act/bwa327301/) | excluded |
+| Bribary (Chapter 36) | [link](https://www.commonlii.org/lk/legis/consol_act/b36132/) | excluded |
+| British Maintenance Orders (Chapter 101) | [link](https://www.commonlii.org/lk/legis/consol_act/bmo101303/) | excluded |
+| Brothels (Chapter 43) | [link](https://www.commonlii.org/lk/legis/consol_act/b43155/) | excluded |
+| Buddha Sravaka Dharmapithaya (Chapter 386) | [link](https://www.commonlii.org/lk/legis/consol_act/bsd386276/) | excluded |
+| Buddhist Publication Society (Chapter 420) | [link](https://www.commonlii.org/lk/legis/consol_act/bps420343/) | excluded |
+| Budgetary Relief Allowance of Workers (No.1) (Chapter 169) | [link](https://www.commonlii.org/lk/legis/consol_act/braow1169432/) | excluded |
+| Budgetary Relief Allowance of Workers (No.2) (Chapter 170) | [link](https://www.commonlii.org/lk/legis/consol_act/braow2170432/) | excluded |
+| Business Names (Chapter 180) | [link](https://www.commonlii.org/lk/legis/consol_act/bn180211/) | excluded |
+| Business Undretakings (Acquisition) (Chapter 184) | [link](https://www.commonlii.org/lk/legis/consol_act/bu184421/) | excluded |
+| Ceiling on Housing Property (Chapter 339) | [link](https://www.commonlii.org/lk/legis/consol_act/cohp339354/) | excluded |
+| Cemeteries and Burial Grounds (Chapter 563) | [link](https://www.commonlii.org/lk/legis/consol_act/cabg563320/) | excluded |
+| Central Cultural Fund (Chapter 388) | [link](https://www.commonlii.org/lk/legis/consol_act/ccf388271/) | excluded |
+| Central Environmental Authority (Chapter 554) | [link](https://www.commonlii.org/lk/legis/consol_act/cea554407/) | excluded |
+| Central Freight Bureau (Chapter 239) | [link](https://www.commonlii.org/lk/legis/consol_act/cfb239258/) | excluded |
+| Ceylon Association for the Mentally Retarded (Chapter 512) | [link](https://www.commonlii.org/lk/legis/consol_act/caftmr512473/) | excluded |
+| Ceylon Baithul Mal Fund (Chapter 464) | [link](https://www.commonlii.org/lk/legis/consol_act/cbmf464262/) | excluded |
+| Ceylon Baptist Council (Chapter 443) | [link](https://www.commonlii.org/lk/legis/consol_act/cbc443282/) | excluded |
+| Ceylon Bible Society (Chapter 454) | [link](https://www.commonlii.org/lk/legis/consol_act/cbs454246/) | excluded |
+| Ceylon College of Physicians (Chapter 114) | [link](https://www.commonlii.org/lk/legis/consol_act/ccop114316/) | excluded |
+| Ceylon Electricity Board (Chapter 538) | [link](https://www.commonlii.org/lk/legis/consol_act/ceb538285/) | excluded |
+| Ceylon Moor Ladies' Union (Chapter 505) | [link](https://www.commonlii.org/lk/legis/consol_act/cmlu505301/) | excluded |
+| Ceylon Muslim Scholarship Fund (Chapter 500) | [link](https://www.commonlii.org/lk/legis/consol_act/cmsf500371/) | excluded |
+| Ceylon National Association for the Prevention of Tuberculosis (Chapter 511) | [link](https://www.commonlii.org/lk/legis/consol_act/cnaftpot511689/) | excluded |
+| Ceylon National Chamber of Industries (Chapter 211) | [link](https://www.commonlii.org/lk/legis/consol_act/cncoi211400/) | excluded |
+| Ceylon National Library Services Board (Chapter 387) | [link](https://www.commonlii.org/lk/legis/consol_act/cnlsb387415/) | excluded |
+| Ceylon Pentecostal Mission (Chapter 440) | [link](https://www.commonlii.org/lk/legis/consol_act/cpm440342/) | excluded |
+| Ceylon Petrolium Corporation (Chapter 220) | [link](https://www.commonlii.org/lk/legis/consol_act/cpc220385/) | excluded |
+| Ceylon Scout Council (Chapter 498) | [link](https://www.commonlii.org/lk/legis/consol_act/csc498275/) | excluded |
+| Ceylon Shipping Corporation (Chapter 234) | [link](https://www.commonlii.org/lk/legis/consol_act/csc234355/) | excluded |
+| Ceylon Tourist Board (Chapter 224) | [link](https://www.commonlii.org/lk/legis/consol_act/ctb224282/) | excluded |
+| Ceylonese Brothers of St. Joseph (Chapter 490) | [link](https://www.commonlii.org/lk/legis/consol_act/cbosj490378/) | excluded |
+| Ceylonese Evangelistic Association (Chapter 453) | [link](https://www.commonlii.org/lk/legis/consol_act/cea453386/) | excluded |
+| Chamber of Commerce (Chapter 210) | [link](https://www.commonlii.org/lk/legis/consol_act/coc210193/) | excluded |
+| Chank Fisheries (Chapter 242) | [link](https://www.commonlii.org/lk/legis/consol_act/cf242185/) | excluded |
+| Chauffeurs (Chapter 172) | [link](https://www.commonlii.org/lk/legis/consol_act/c172162/) | excluded |
+| Cheetus (Chapter 190) | [link](https://www.commonlii.org/lk/legis/consol_act/c190138/) | excluded |
+| Chidren and Young Persons (Chapter 31) | [link](https://www.commonlii.org/lk/legis/consol_act/cayp31310/) | excluded |
+| Chilaw Buddhist Association (Chapter 414) | [link](https://www.commonlii.org/lk/legis/consol_act/cba414307/) | excluded |
+| Children and Young Persons (Harmful Publications) (Chapter 32) | [link](https://www.commonlii.org/lk/legis/consol_act/caypp32522/) | excluded |
+| Church of Ceylon (Chapter 428) | [link](https://www.commonlii.org/lk/legis/consol_act/coc428206/) | excluded |
+| Church of England (Chapter 429) | [link](https://www.commonlii.org/lk/legis/consol_act/coe429188/) | excluded |
+| Citizenship (Chapter 248) | [link](https://www.commonlii.org/lk/legis/consol_act/c248191/) | excluded |
+| Civil Procedure Code (Chapter 105) | [link](https://www.commonlii.org/lk/legis/consol_act/cpc105233/) | excluded |
+| Co-operative Employees Commission (Chapter 635) | [link](https://www.commonlii.org/lk/legis/consol_act/cec635407/) | excluded |
+| Coconut Development (Chapter 260) | [link](https://www.commonlii.org/lk/legis/consol_act/cd260268/) | excluded |
+| College of General Practitioners (Chapter 115) | [link](https://www.commonlii.org/lk/legis/consol_act/cogp115344/) | excluded |
+| Colombo Bible College (Chapter 450) | [link](https://www.commonlii.org/lk/legis/consol_act/cbc450209/) | excluded |
+| Colombo Gospel Tabernacle (Chapter 444) | [link](https://www.commonlii.org/lk/legis/consol_act/cgt444271/) | excluded |
+| Colombo Waterworks (Chapter 542) | [link](https://www.commonlii.org/lk/legis/consol_act/cw542275/) | excluded |
+| Colombo Young Men's Buddhist Association (Chapter 399) | [link](https://www.commonlii.org/lk/legis/consol_act/cymba399449/) | excluded |
+| Colombo Young Women's Christian Association (Chapter 447) | [link](https://www.commonlii.org/lk/legis/consol_act/cywca447498/) | excluded |
+| Colonmbo Young Men's Christian Association (Chapter 446) | [link](https://www.commonlii.org/lk/legis/consol_act/cymca446475/) | excluded |
+| Commisions of Inquiry (Chapter 8) | [link](https://www.commonlii.org/lk/legis/consol_act/coi8308/) | excluded |
+| Companies (Donations) (Chapter 178) | [link](https://www.commonlii.org/lk/legis/consol_act/c178252/) | excluded |
+| Companies (Special Provisions) (Chapter 177) | [link](https://www.commonlii.org/lk/legis/consol_act/cp177354/) | excluded |
+| Compulsory Food Production (Tax Relief) (Chapter 356) | [link](https://www.commonlii.org/lk/legis/consol_act/cfpr356463/) | excluded |
+| Compulsory Public Service (Chapter 615) | [link](https://www.commonlii.org/lk/legis/consol_act/cps615342/) | excluded |
+| Comrades of the Great War (Chapter 514) | [link](https://www.commonlii.org/lk/legis/consol_act/cotgw514268/) | excluded |
+| Congress of Religions (Chapter 468) | [link](https://www.commonlii.org/lk/legis/consol_act/cor468274/) | excluded |
+| Consumer Protection (Chapter 219) | [link](https://www.commonlii.org/lk/legis/consol_act/cp219289/) | excluded |
+| Contagious Diseases (Chapter 555) | [link](https://www.commonlii.org/lk/legis/consol_act/cd555251/) | excluded |
+| Contingencies Fund (Chapter 317) | [link](https://www.commonlii.org/lk/legis/consol_act/cf317229/) | excluded |
+| Contributory Negligence and Joint Wrongdoers (Chapter 107) | [link](https://www.commonlii.org/lk/legis/consol_act/cnajw107510/) | excluded |
+| Control of Finance Companies (Chapter 329) | [link](https://www.commonlii.org/lk/legis/consol_act/cofc329304/) | excluded |
+| Control of Insurance (Chapter 332) | [link](https://www.commonlii.org/lk/legis/consol_act/coi332268/) | excluded |
+| Control of Pesticides (Chapter 282) | [link](https://www.commonlii.org/lk/legis/consol_act/cop282272/) | excluded |
+| Control of Prices (Chapter 216) | [link](https://www.commonlii.org/lk/legis/consol_act/cop216237/) | excluded |
+| Corneal Grafting (Chapter 552) | [link](https://www.commonlii.org/lk/legis/consol_act/cg552199/) | excluded |
+| Corporal Punishment (Chapter 28) | [link](https://www.commonlii.org/lk/legis/consol_act/cp28283/) | excluded |
+| Council of Legal Education (Chapter 109) | [link](https://www.commonlii.org/lk/legis/consol_act/cole109268/) | excluded |
+| Courts Records (Inspection by Minister of Justice) (Chapter 19) | [link](https://www.commonlii.org/lk/legis/consol_act/crbmoj19566/) | excluded |
+| Cruelty to Animals (Chapter 573) | [link](https://www.commonlii.org/lk/legis/consol_act/cta573256/) | excluded |
+| Dangerous Animals (Chapter 61) | [link](https://www.commonlii.org/lk/legis/consol_act/da61221/) | excluded |
+| Declartion of Assets and Liabilities (Chapter 63) | [link](https://www.commonlii.org/lk/legis/consol_act/doaal63363/) | excluded |
+| Deegahavapi Prathisanskarana Sabhawa (Chapter 423) | [link](https://www.commonlii.org/lk/legis/consol_act/dps423335/) | excluded |
+| Defence Stations (Chapter 585) | [link](https://www.commonlii.org/lk/legis/consol_act/ds585208/) | excluded |
+| Definition of Boundaries (Chapter 292) | [link](https://www.commonlii.org/lk/legis/consol_act/dob292276/) | excluded |
+| Department of Agriculture (Chapter 262) | [link](https://www.commonlii.org/lk/legis/consol_act/doa262313/) | excluded |
+| Destruction of Valueless Documents (Chapter 20) | [link](https://www.commonlii.org/lk/legis/consol_act/dovd20432/) | excluded |
+| Dev Suwa Sevawa (Chapter 452) | [link](https://www.commonlii.org/lk/legis/consol_act/dss452217/) | excluded |
+| Dharmachakra Vidyapitha Sabha (Chapter 425) | [link](https://www.commonlii.org/lk/legis/consol_act/dvs425270/) | excluded |
+| Dharmavijaya Foundation (Chapter 427) | [link](https://www.commonlii.org/lk/legis/consol_act/df427274/) | excluded |
+| Disabled Ceylon Men's Fund (Chapter 488) | [link](https://www.commonlii.org/lk/legis/consol_act/dcmf488268/) | excluded |
+| Diseases Among Labourers (Chapter 557) | [link](https://www.commonlii.org/lk/legis/consol_act/dal557284/) | excluded |
+| Diseases of Animals (Chapter 571) | [link](https://www.commonlii.org/lk/legis/consol_act/doa571218/) | excluded |
+| Domestic Servants (Chapter 173) | [link](https://www.commonlii.org/lk/legis/consol_act/ds173254/) | excluded |
+| Dried Meat (Chapter 568) | [link](https://www.commonlii.org/lk/legis/consol_act/dm568134/) | excluded |
+| Dutch Reformed Church (Chapter 432) | [link](https://www.commonlii.org/lk/legis/consol_act/drc432246/) | excluded |
+| Education (Chapter 381) | [link](https://www.commonlii.org/lk/legis/consol_act/e381147/) | excluded |
+| Elephant Kraals (Chapter 572) | [link](https://www.commonlii.org/lk/legis/consol_act/ek572193/) | excluded |
+| Embarkation Tax (Chapter 345) | [link](https://www.commonlii.org/lk/legis/consol_act/et345204/) | excluded |
+| Embilipitiya Young Men's Buddhist Association (Chapter 407) | [link](https://www.commonlii.org/lk/legis/consol_act/eymba407499/) | excluded |
+| Employees' Holidays (Chapter 155) | [link](https://www.commonlii.org/lk/legis/consol_act/eh155255/) | excluded |
+| Employees' Provident Fund (Special Provision) (Chapter 624) | [link](https://www.commonlii.org/lk/legis/consol_act/epfp624511/) | excluded |
+| Employment of Females in Mines (Chapter 147) | [link](https://www.commonlii.org/lk/legis/consol_act/eofim147341/) | excluded |
+| Employment of Private Sector Trainees (Chapter 148) | [link](https://www.commonlii.org/lk/legis/consol_act/eopst148452/) | excluded |
+| Episcopal Churches (Chapter 430) | [link](https://www.commonlii.org/lk/legis/consol_act/ec430228/) | excluded |
+| Essential Public Services (Chapter 52) | [link](https://www.commonlii.org/lk/legis/consol_act/eps52308/) | excluded |
+| Estate Duty (Chapter 350) | [link](https://www.commonlii.org/lk/legis/consol_act/ed350194/) | excluded |
+| Estate Labour (Indian) (Chapter 160) | [link](https://www.commonlii.org/lk/legis/consol_act/el160236/) | excluded |
+| Estate Quarters (Chapter 161) | [link](https://www.commonlii.org/lk/legis/consol_act/eq161239/) | excluded |
+| Estate Roads (Chapter 523) | [link](https://www.commonlii.org/lk/legis/consol_act/er523180/) | excluded |
+| Estate Roads (Conversion) (Chapter 524) | [link](https://www.commonlii.org/lk/legis/consol_act/er524304/) | excluded |
+| Estates Staffs' Association (Chapter 486) | [link](https://www.commonlii.org/lk/legis/consol_act/esa486325/) | excluded |
+| Evidence (Chapter 21) | [link](https://www.commonlii.org/lk/legis/consol_act/e21123/) | excluded |
+| Exchange Control (Chapter 325) | [link](https://www.commonlii.org/lk/legis/consol_act/ec325213/) | excluded |
+| Excise (Chapter 64) | [link](https://www.commonlii.org/lk/legis/consol_act/e64123/) | excluded |
+| Execution of Deeds (Chapter 85) | [link](https://www.commonlii.org/lk/legis/consol_act/eod85222/) | excluded |
+| Explosives (Chapter 633) | [link](https://www.commonlii.org/lk/legis/consol_act/e633200/) | excluded |
+| Fauna and Flora Protection (Chapter 567) | [link](https://www.commonlii.org/lk/legis/consol_act/fafp567290/) | excluded |
+| Fee-Charging Employment Agencies (Chapter 151) | [link](https://www.commonlii.org/lk/legis/consol_act/fea151319/) | excluded |
+| Felling of Trees (Control) (Chapter 284) | [link](https://www.commonlii.org/lk/legis/consol_act/fot284293/) | excluded |
+| Fellowship of Free Churches (Chapter 437) | [link](https://www.commonlii.org/lk/legis/consol_act/fofc437305/) | excluded |
+| Fermented Liquor on Board Ships of the Republic (Chapter 630) | [link](https://www.commonlii.org/lk/legis/consol_act/flobsotr630486/) | excluded |
+| Fertilizers (Chapter 281) | [link](https://www.commonlii.org/lk/legis/consol_act/f281200/) | excluded |
+| Financial Reserves (Chapter 318) | [link](https://www.commonlii.org/lk/legis/consol_act/fr318227/) | excluded |
+| Firing Ranges and Military Training (Chapter 631) | [link](https://www.commonlii.org/lk/legis/consol_act/framt631378/) | excluded |
+| Fisheries (Chapter 240) | [link](https://www.commonlii.org/lk/legis/consol_act/f240153/) | excluded |
+| Flood Protection (Chapter 278) | [link](https://www.commonlii.org/lk/legis/consol_act/fp278236/) | excluded |
+| Food (Chapter 544) | [link](https://www.commonlii.org/lk/legis/consol_act/f544100/) | excluded |
+| Food Control (Chapter 214) | [link](https://www.commonlii.org/lk/legis/consol_act/fc214190/) | excluded |
+| Food Control (Possesion) (Chapter 215) | [link](https://www.commonlii.org/lk/legis/consol_act/fc215312/) | excluded |
+| Food Production (Estate) (Chapter 274) | [link](https://www.commonlii.org/lk/legis/consol_act/fp274289/) | excluded |
+| Food Supplies (Chapter 546) | [link](https://www.commonlii.org/lk/legis/consol_act/fs546209/) | excluded |
+| Foreign Employment Agency (Chapter 150) | [link](https://www.commonlii.org/lk/legis/consol_act/fea150308/) | excluded |
+| Freedom from Hunger Campaign (Chapter 273) | [link](https://www.commonlii.org/lk/legis/consol_act/ffhc273294/) | excluded |
+| Fuel Conservation-Five Day Week (Chapter 222) | [link](https://www.commonlii.org/lk/legis/consol_act/fcdw222352/) | excluded |
+| Galle Municipal Saffs Benevolent Association (Chapter 482) | [link](https://www.commonlii.org/lk/legis/consol_act/gmsba482449/) | excluded |
+| Galle Muslim Cultural Association (Chapter 465) | [link](https://www.commonlii.org/lk/legis/consol_act/gmca465391/) | excluded |
+| Galle Young Men's Buddhist Association (Chapter 401) | [link](https://www.commonlii.org/lk/legis/consol_act/gymba401413/) | excluded |
+| Gaming (Chapter 59) | [link](https://www.commonlii.org/lk/legis/consol_act/g59109/) | excluded |
+| Gas (Chapter 539) | [link](https://www.commonlii.org/lk/legis/consol_act/g53988/) | excluded |
+| Gas Meters (Chapter 540) | [link](https://www.commonlii.org/lk/legis/consol_act/gm540162/) | excluded |
+| Girl Guides Association (Chapter 499) | [link](https://www.commonlii.org/lk/legis/consol_act/gga499279/) | excluded |
+| Government Gazzette (Publication) (Chapter 15) | [link](https://www.commonlii.org/lk/legis/consol_act/gg15400/) | excluded |
+| Government Indemnity Bonds (Chapter 613) | [link](https://www.commonlii.org/lk/legis/consol_act/gib613340/) | excluded |
+| Government Officers' Benefit Association (Chapter 475) | [link](https://www.commonlii.org/lk/legis/consol_act/goba475428/) | excluded |
+| Government Surveyors' Association (Chapter 483) | [link](https://www.commonlii.org/lk/legis/consol_act/gsa483454/) | excluded |
+| Government-Sponsored Corporations (Chapter 181) | [link](https://www.commonlii.org/lk/legis/consol_act/gc181454/) | excluded |
+| Gramabhiwurdhi Sadhaka Society (Chapter 516) | [link](https://www.commonlii.org/lk/legis/consol_act/gss516319/) | excluded |
+| Health Services (Chapter 550) | [link](https://www.commonlii.org/lk/legis/consol_act/hs550204/) | excluded |
+| Hendala Susitha Wadana Samithiya (Chapter 518) | [link](https://www.commonlii.org/lk/legis/consol_act/hsws518326/) | excluded |
+| Hindu Board of Education (Chapter 455) | [link](https://www.commonlii.org/lk/legis/consol_act/hboe455252/) | excluded |
+| Holidays (Chapter 364) | [link](https://www.commonlii.org/lk/legis/consol_act/h364149/) | excluded |
+| Homoepathy (Chapter 117) | [link](https://www.commonlii.org/lk/legis/consol_act/h117180/) | excluded |
+| Hotel Keepers (Chapter 47) | [link](https://www.commonlii.org/lk/legis/consol_act/hk47191/) | excluded |
+| Hotel Keepers Liability (Chapter 86) | [link](https://www.commonlii.org/lk/legis/consol_act/hkl86281/) | excluded |
+| Houses of Detention (Chapter 45) | [link](https://www.commonlii.org/lk/legis/consol_act/hod45261/) | excluded |
+| Housing (Special Provision) (Chapter 338) | [link](https://www.commonlii.org/lk/legis/consol_act/hp338336/) | excluded |
+| Housing Developers (Special Provisions) (Chapter 357) | [link](https://www.commonlii.org/lk/legis/consol_act/hdp357465/) | excluded |
+| Immigrants and Emigrants (Chapter 245) | [link](https://www.commonlii.org/lk/legis/consol_act/iae245290/) | excluded |
+| Imports and Exports (Chapter 347) | [link](https://www.commonlii.org/lk/legis/consol_act/iae347293/) | excluded |
+| Indian Immigrant Labour (Chapter 159) | [link](https://www.commonlii.org/lk/legis/consol_act/iil159267/) | excluded |
+| Industrial Development (Chapter 207) | [link](https://www.commonlii.org/lk/legis/consol_act/id207301/) | excluded |
+| Industrial Products (Chapter 205) | [link](https://www.commonlii.org/lk/legis/consol_act/ip205289/) | excluded |
+| Informers Rewards (Chapter 39) | [link](https://www.commonlii.org/lk/legis/consol_act/ir39253/) | excluded |
+| Inscribed Rupee Stock (Chapter 321) | [link](https://www.commonlii.org/lk/legis/consol_act/irs321261/) | excluded |
+| Insolvants (Chapter 103) | [link](https://www.commonlii.org/lk/legis/consol_act/i103199/) | excluded |
+| Institute of Architects (Chapter 128) | [link](https://www.commonlii.org/lk/legis/consol_act/ioa128307/) | excluded |
+| Institute of Bankers of Sri Lanka (Chapter 309) | [link](https://www.commonlii.org/lk/legis/consol_act/iobosl309370/) | excluded |
+| Institute of Chartered Accountants (Chapter 119) | [link](https://www.commonlii.org/lk/legis/consol_act/ioca119404/) | excluded |
+| Institute of Chemistry (Chapter 122) | [link](https://www.commonlii.org/lk/legis/consol_act/ioc122322/) | excluded |
+| Institute of Corporation of Lawyers (Chapter 111) | [link](https://www.commonlii.org/lk/legis/consol_act/iocol111459/) | excluded |
+| Institute of Engineers (Chapter 121) | [link](https://www.commonlii.org/lk/legis/consol_act/ioe121298/) | excluded |
+| Institute of Personnel Management (Chapter 120) | [link](https://www.commonlii.org/lk/legis/consol_act/iopm120403/) | excluded |
+| Institute of Sinhala Culture (Chapter 472) | [link](https://www.commonlii.org/lk/legis/consol_act/iosc472361/) | excluded |
+| Institute of Surveying and Mapping Act (Chapter 124) | [link](https://www.commonlii.org/lk/legis/consol_act/iosama124448/) | excluded |
+| Institute of Valuers (Chapter 127) | [link](https://www.commonlii.org/lk/legis/consol_act/iov127302/) | excluded |
+| Insurance (Special Provisions) (Chapter 331) | [link](https://www.commonlii.org/lk/legis/consol_act/ip331363/) | excluded |
+| Insurance Corporation (Chapter 330) | [link](https://www.commonlii.org/lk/legis/consol_act/ic330292/) | excluded |
+| Interim Devaluation Allowance of Employees (Chapter 166) | [link](https://www.commonlii.org/lk/legis/consol_act/idaoe166460/) | excluded |
+| Intermeddlers with Suitors (Chapter 40) | [link](https://www.commonlii.org/lk/legis/consol_act/iws40367/) | excluded |
+| International Development Association Agreement (Chapter 326) | [link](https://www.commonlii.org/lk/legis/consol_act/idaa326516/) | excluded |
+| International Finance Corporation Agreement (Chapter 328) | [link](https://www.commonlii.org/lk/legis/consol_act/ifca328460/) | excluded |
+| Interpretation (Chapter 12) | [link](https://www.commonlii.org/lk/legis/consol_act/i12234/) | excluded |
+| Kadawalagedara Purana Siddhasthana Wardhana Society (Chapter 426) | [link](https://www.commonlii.org/lk/legis/consol_act/kpsws426452/) | excluded |
+| Kandy Church (Chapter 433) | [link](https://www.commonlii.org/lk/legis/consol_act/kc433169/) | excluded |
+| Kandy Young Women's Christian Association (Chapter 448) | [link](https://www.commonlii.org/lk/legis/consol_act/kywca448480/) | excluded |
+| Kandyan Law (Chapter 71) | [link](https://www.commonlii.org/lk/legis/consol_act/kl71160/) | excluded |
+| Kandyan Scholarship Fund (Chapter 497) | [link](https://www.commonlii.org/lk/legis/consol_act/ksf497285/) | excluded |
+| Kandyan Succession (Chapter 133) | [link](https://www.commonlii.org/lk/legis/consol_act/ks133244/) | excluded |
+| Kelani Young Men's Buddhist Association (Chapter 404) | [link](https://www.commonlii.org/lk/legis/consol_act/kymba404427/) | excluded |
+| Kuliyapitiya Young Men's Buddhist Association (Chapter 403) | [link](https://www.commonlii.org/lk/legis/consol_act/kymba403528/) | excluded |
+| Labour Inspections (Maintenance of Secrecy) (Chapter 62) | [link](https://www.commonlii.org/lk/legis/consol_act/lios62437/) | excluded |
+| Lady Lochore Loan Fund (Chapter 508) | [link](https://www.commonlii.org/lk/legis/consol_act/lllf508250/) | excluded |
+| Land Betterment Charges (Chapter 353) | [link](https://www.commonlii.org/lk/legis/consol_act/lbc353257/) | excluded |
+| Land Grants (Special Provisions) (Chapter 287) | [link](https://www.commonlii.org/lk/legis/consol_act/lgp287368/) | excluded |
+| Land Reform (Chapter 297) | [link](https://www.commonlii.org/lk/legis/consol_act/lr297160/) | excluded |
+| Land Registers (Reconstructed Folios) (Chapter 138) | [link](https://www.commonlii.org/lk/legis/consol_act/lrf138424/) | excluded |
+| Land Settlement (Chapter 299) | [link](https://www.commonlii.org/lk/legis/consol_act/ls299214/) | excluded |
+| Land Surveys (Chapter 293) | [link](https://www.commonlii.org/lk/legis/consol_act/ls293213/) | excluded |
+| Lands Resumption (Chapter 290) | [link](https://www.commonlii.org/lk/legis/consol_act/lr290249/) | excluded |
+| Lanka Jatika Sarvodaya Shramadana Sangamaya (Chapter 517) | [link](https://www.commonlii.org/lk/legis/consol_act/ljsss517384/) | excluded |
+| Lanka Mahila Samiti (Chapter 506) | [link](https://www.commonlii.org/lk/legis/consol_act/lms506201/) | excluded |
+| Launches (Chapter 536) | [link](https://www.commonlii.org/lk/legis/consol_act/l536139/) | excluded |
+| Law Commission (Chapter 16) | [link](https://www.commonlii.org/lk/legis/consol_act/lc16216/) | excluded |
+| Legal Aid (Chapter 112) | [link](https://www.commonlii.org/lk/legis/consol_act/la112107/) | excluded |
+| Legitimacy (Chapter 77) | [link](https://www.commonlii.org/lk/legis/consol_act/l77158/) | excluded |
+| Lepers (Chapter 560) | [link](https://www.commonlii.org/lk/legis/consol_act/l560133/) | excluded |
+| Leporosy Association of Sri Lanka (Chapter 513) | [link](https://www.commonlii.org/lk/legis/consol_act/laosl513391/) | excluded |
+| Licensing of Clubs (Chapter 609) | [link](https://www.commonlii.org/lk/legis/consol_act/loc609218/) | excluded |
+| Licensing of Produce Brokers (Chapter 126) | [link](https://www.commonlii.org/lk/legis/consol_act/lopb126322/) | excluded |
+| Lighting Control (Chapter 53) | [link](https://www.commonlii.org/lk/legis/consol_act/lc53232/) | excluded |
+| Lions Clubs-Youth Education, Rehabilitation and Employment Trust (Chapter 519) | [link](https://www.commonlii.org/lk/legis/consol_act/lceraet519713/) | excluded |
+| Loan Board (Chapter 311) | [link](https://www.commonlii.org/lk/legis/consol_act/lb311137/) | excluded |
+| Local Authorities (Imposition of Civic Disabilities) (No.1) (Chapter 590) | [link](https://www.commonlii.org/lk/legis/consol_act/laocd1590558/) | excluded |
+| Local Authorities (Imposition of Civic Disabilities) (No.2) (Chapter 591) | [link](https://www.commonlii.org/lk/legis/consol_act/laocd2591558/) | excluded |
+| Local Authorities (Pensioners' Allowances) (Chapter 594) | [link](https://www.commonlii.org/lk/legis/consol_act/laa594455/) | excluded |
+| Local Authorities (Special Provisions) (Chapter 593) | [link](https://www.commonlii.org/lk/legis/consol_act/lap593440/) | excluded |
+| Local Authorities (Standard By-Laws) (Chapter 588) | [link](https://www.commonlii.org/lk/legis/consol_act/lab588385/) | excluded |
+| Local Authorities Housing (Chapter 601) | [link](https://www.commonlii.org/lk/legis/consol_act/lah601322/) | excluded |
+| Local Authority Quarters (Recovery of Possession) (Chapter 583) | [link](https://www.commonlii.org/lk/legis/consol_act/laqop583603/) | excluded |
+| Local Government (Administrative Regions) (Chapter 595) | [link](https://www.commonlii.org/lk/legis/consol_act/lgr595455/) | excluded |
+| Local Government Service (Chapter 592) | [link](https://www.commonlii.org/lk/legis/consol_act/lgs592299/) | excluded |
+| Local Loans (Chapter 312) | [link](https://www.commonlii.org/lk/legis/consol_act/ll312158/) | excluded |
+| Local Treasury Bills (Chapter 319) | [link](https://www.commonlii.org/lk/legis/consol_act/ltb319270/) | excluded |
+| Lost Property (Chapter 87) | [link](https://www.commonlii.org/lk/legis/consol_act/lp87251/) | excluded |
+| Lotteries (Chapter 57) | [link](https://www.commonlii.org/lk/legis/consol_act/l57178/) | excluded |
+| Low-Country Products Association (Chapter 485) | [link](https://www.commonlii.org/lk/legis/consol_act/lpa485442/) | excluded |
+| Mahamantinda Vidyarakshaka Sabha (Chapter 492) | [link](https://www.commonlii.org/lk/legis/consol_act/mvs492295/) | excluded |
+| Mahanuwara Esala Perahera Trust (Chapter 397) | [link](https://www.commonlii.org/lk/legis/consol_act/mept397345/) | excluded |
+| Mahanuwara Young Men's Buddhist Association (Chapter 405) | [link](https://www.commonlii.org/lk/legis/consol_act/mymba405472/) | excluded |
+| Mahaweli Authority of Sri Lanka (Chapter 272) | [link](https://www.commonlii.org/lk/legis/consol_act/maosl272352/) | excluded |
+| Maintenance (Chapter 100) | [link](https://www.commonlii.org/lk/legis/consol_act/m100152/) | excluded |
+| Manufacture of Matches (Regulation) (Chapter 191) | [link](https://www.commonlii.org/lk/legis/consol_act/mom191369/) | excluded |
+| Marriage and Devorce (Chapter 132) | [link](https://www.commonlii.org/lk/legis/consol_act/mad132209/) | excluded |
+| Marriage and Divorce (Muslim) (Chapter 134) | [link](https://www.commonlii.org/lk/legis/consol_act/mad134294/) | excluded |
+| Marriages (Chapter 131) | [link](https://www.commonlii.org/lk/legis/consol_act/m131146/) | excluded |
+| Married Women's Property (Chapter 68) | [link](https://www.commonlii.org/lk/legis/consol_act/mwp68333/) | excluded |
+| Masters Attendant (Chapter 235) | [link](https://www.commonlii.org/lk/legis/consol_act/ma235242/) | excluded |
+| Matrimonial Rights and Inheritance (Chapter 69) | [link](https://www.commonlii.org/lk/legis/consol_act/mrai69364/) | excluded |
+| Matrimonial Rights and Inheritance (Jaffna) (Chapter 70) | [link](https://www.commonlii.org/lk/legis/consol_act/mrai70396/) | excluded |
+| Medical Practitioners, Pharmecists, Midwives and Nurses (Chapter 113) | [link](https://www.commonlii.org/lk/legis/consol_act/mppman113580/) | excluded |
+| Mental Diseases (Chapter 559) | [link](https://www.commonlii.org/lk/legis/consol_act/md559196/) | excluded |
+| Merchant Shipping (Chapter 233) | [link](https://www.commonlii.org/lk/legis/consol_act/ms233228/) | excluded |
+| Methodist Trust Association (Chapter 438) | [link](https://www.commonlii.org/lk/legis/consol_act/mta438375/) | excluded |
+| Milk Board (Chapter 548) | [link](https://www.commonlii.org/lk/legis/consol_act/mb548140/) | excluded |
+| Minimum Wages (Chapter 164) | [link](https://www.commonlii.org/lk/legis/consol_act/mw164199/) | excluded |
+| Minister of Local Government (Delegation of Powers) (Chapter 580) | [link](https://www.commonlii.org/lk/legis/consol_act/molgop580534/) | excluded |
+| Monetary Law (Chapter 323) | [link](https://www.commonlii.org/lk/legis/consol_act/ml323200/) | excluded |
+| Money Lending (Chapter 90) | [link](https://www.commonlii.org/lk/legis/consol_act/ml90189/) | excluded |
+| Moors' Islamic Cultural Home (Chapter 502) | [link](https://www.commonlii.org/lk/legis/consol_act/mich502335/) | excluded |
+| Moratuwa Social Service Society (Chapter 509) | [link](https://www.commonlii.org/lk/legis/consol_act/msss509384/) | excluded |
+| Mortgage (Chapter 98) | [link](https://www.commonlii.org/lk/legis/consol_act/m98142/) | excluded |
+| Motor Car (Conventions) (Chapter 532) | [link](https://www.commonlii.org/lk/legis/consol_act/mc532298/) | excluded |
+| Motor Cars (Tax on Transfers) (Chapter 531) | [link](https://www.commonlii.org/lk/legis/consol_act/mcot531357/) | excluded |
+| Motor Traffic (Special Provisions) (Chapter 529) | [link](https://www.commonlii.org/lk/legis/consol_act/mtp529400/) | excluded |
+| Mritime Zones (Chapter 7) | [link](https://www.commonlii.org/lk/legis/consol_act/mz7218/) | excluded |
+| Municipal Council (Chapter 576) | [link](https://www.commonlii.org/lk/legis/consol_act/mc576223/) | excluded |
+| Municipal Dairies and Launderies (Chapter 566) | [link](https://www.commonlii.org/lk/legis/consol_act/mdal566325/) | excluded |
+| Muslim Hospital Association (Chapter 501) | [link](https://www.commonlii.org/lk/legis/consol_act/mha501351/) | excluded |
+| Muslim Interstate Succession (Chapter 72) | [link](https://www.commonlii.org/lk/legis/consol_act/mis72383/) | excluded |
+| Muslim Library (Chapter 467) | [link](https://www.commonlii.org/lk/legis/consol_act/ml467223/) | excluded |
+| National Apprenticeship (Chapter 149) | [link](https://www.commonlii.org/lk/legis/consol_act/na149287/) | excluded |
+| National Arts Council, Mahanuwara (Chapter 470) | [link](https://www.commonlii.org/lk/legis/consol_act/nacm470357/) | excluded |
+| National Council of the Young Men's Christian Association (Chapter 449) | [link](https://www.commonlii.org/lk/legis/consol_act/ncotymca449591/) | excluded |
+| National Development Bank of Sri Lanka (Chapter 308) | [link](https://www.commonlii.org/lk/legis/consol_act/ndbosl308382/) | excluded |
+| National Film Corporation of Sri Lanka (Chapter 366) | [link](https://www.commonlii.org/lk/legis/consol_act/nfcosl366407/) | excluded |
+| National Institute of Business Management (Chapter 185) | [link](https://www.commonlii.org/lk/legis/consol_act/niobm185472/) | excluded |
+| National Lotteries Board (Chapter 316) | [link](https://www.commonlii.org/lk/legis/consol_act/nlb316291/) | excluded |
+| National Matric Conversion (Chapter 189) | [link](https://www.commonlii.org/lk/legis/consol_act/nmc189324/) | excluded |
+| National Museums (Chapter 391) | [link](https://www.commonlii.org/lk/legis/consol_act/nm391246/) | excluded |
+| National Planning Council (Chapter 315) | [link](https://www.commonlii.org/lk/legis/consol_act/npc315291/) | excluded |
+| National Prices Commission (Chapter 217) | [link](https://www.commonlii.org/lk/legis/consol_act/npc217325/) | excluded |
+| National Science Council (Chapter 390) | [link](https://www.commonlii.org/lk/legis/consol_act/nsc390263/) | excluded |
+| National Water Supply and Drainage Board (Chapter 541) | [link](https://www.commonlii.org/lk/legis/consol_act/nwsadb541409/) | excluded |
+| National Youth Services (Chapter 11) | [link](https://www.commonlii.org/lk/legis/consol_act/nys11318/) | excluded |
+| Naval and Victualling Stores (Chapter 54) | [link](https://www.commonlii.org/lk/legis/consol_act/navs54334/) | excluded |
+| Navy (Chapter 626) | [link](https://www.commonlii.org/lk/legis/consol_act/n626122/) | excluded |
+| Nindagama Lands (Chapter 301) | [link](https://www.commonlii.org/lk/legis/consol_act/nl301164/) | excluded |
+| Non-Episcopalian Churches (Chapter 431) | [link](https://www.commonlii.org/lk/legis/consol_act/nc431289/) | excluded |
+| Northern Province Teachers' Association Benevolent Fund (Chapter 493) | [link](https://www.commonlii.org/lk/legis/consol_act/nptabf493592/) | excluded |
+| Notaries (Chapter 110) | [link](https://www.commonlii.org/lk/legis/consol_act/n110157/) | excluded |
+| Nugegoda Young Men's Buddhist Association (Chapter 400) | [link](https://www.commonlii.org/lk/legis/consol_act/nymba400447/) | excluded |
+| Nuisances (Chapter 562) | [link](https://www.commonlii.org/lk/legis/consol_act/n562160/) | excluded |
+| Nursing Homes (Regulation) (Chapter 551) | [link](https://www.commonlii.org/lk/legis/consol_act/nh551326/) | excluded |
+| Oaths and Affirmations (Chapter 23) | [link](https://www.commonlii.org/lk/legis/consol_act/oaa23257/) | excluded |
+| Offences Commited Under the Influence of Liquor (Chapter 27) | [link](https://www.commonlii.org/lk/legis/consol_act/ocutiol27475/) | excluded |
+| Offensive Weapons (Chapter 38) | [link](https://www.commonlii.org/lk/legis/consol_act/ow38242/) | excluded |
+| Official Publications (Chapter 379) | [link](https://www.commonlii.org/lk/legis/consol_act/op379246/) | excluded |
+| Official Secrets (Chapter 50) | [link](https://www.commonlii.org/lk/legis/consol_act/os50199/) | excluded |
+| Old metal (Chapter 48) | [link](https://www.commonlii.org/lk/legis/consol_act/om48138/) | excluded |
+| Opening of Accounts in Bank (Chapter 307) | [link](https://www.commonlii.org/lk/legis/consol_act/ooaib307289/) | excluded |
+| Orphanages (Chapter 369) | [link](https://www.commonlii.org/lk/legis/consol_act/o369158/) | excluded |
+| Paddy Marketing Board (Chapter 202) | [link](https://www.commonlii.org/lk/legis/consol_act/pmb202233/) | excluded |
+| Paddy Producers' Savings (Chapter 204) | [link](https://www.commonlii.org/lk/legis/consol_act/pps204303/) | excluded |
+| Panandura Public and local Government Service Buddhist Association (Chapter 415) | [link](https://www.commonlii.org/lk/legis/consol_act/ppalgsba415646/) | excluded |
+| Partnership (Chapter 179) | [link](https://www.commonlii.org/lk/legis/consol_act/p179197/) | excluded |
+| Passport (Regulation) and Exit Permit (Chapter 247) | [link](https://www.commonlii.org/lk/legis/consol_act/paep247437/) | excluded |
+| Pawn Brokers (Chapter 99) | [link](https://www.commonlii.org/lk/legis/consol_act/pb99195/) | excluded |
+| Payment of Gratuities etc., To Indian Repatriates (Chapter 162) | [link](https://www.commonlii.org/lk/legis/consol_act/pogetir162513/) | excluded |
+| Pearl Fisheries (Chapter 243) | [link](https://www.commonlii.org/lk/legis/consol_act/pf243200/) | excluded |
+| Penal Code (Chapter 25) | [link](https://www.commonlii.org/lk/legis/consol_act/pc25130/) | excluded |
+| Petroleum (Chapter 634) | [link](https://www.commonlii.org/lk/legis/consol_act/p634180/) | excluded |
+| Petroleum Products (Regulation and Control of Supplies) (Chapter 221) | [link](https://www.commonlii.org/lk/legis/consol_act/ppacos221634/) | excluded |
+| Pilgrimages (Chapter 362) | [link](https://www.commonlii.org/lk/legis/consol_act/p362169/) | excluded |
+| Piliyandala Young Men's Buddhist Association (Chapter 406) | [link](https://www.commonlii.org/lk/legis/consol_act/pymba406474/) | excluded |
+| Pilots (Chapter 237) | [link](https://www.commonlii.org/lk/legis/consol_act/p237149/) | excluded |
+| Pirivena Education (Chapter 385) | [link](https://www.commonlii.org/lk/legis/consol_act/pe385233/) | excluded |
+| Plant Protection (Chapter 276) | [link](https://www.commonlii.org/lk/legis/consol_act/pp276247/) | excluded |
+| Planters' Association (Chapter 484) | [link](https://www.commonlii.org/lk/legis/consol_act/pa484275/) | excluded |
+| Police Saving Association (Chapter 481) | [link](https://www.commonlii.org/lk/legis/consol_act/psa481298/) | excluded |
+| Poor Law (Chapter 368) | [link](https://www.commonlii.org/lk/legis/consol_act/pl368157/) | excluded |
+| Post and Telegraph Benefit Association (Chapter 480) | [link](https://www.commonlii.org/lk/legis/consol_act/patba480397/) | excluded |
+| Post Office (Chapter 520) | [link](https://www.commonlii.org/lk/legis/consol_act/po520168/) | excluded |
+| Post Office Security Fund (Chapter 473) | [link](https://www.commonlii.org/lk/legis/consol_act/posf473321/) | excluded |
+| Powers of Attorney (Chapter 140) | [link](https://www.commonlii.org/lk/legis/consol_act/poa140283/) | excluded |
+| Presbyterian Church (Kandy) (Chapter 434) | [link](https://www.commonlii.org/lk/legis/consol_act/pc434309/) | excluded |
+| Prescription (Chapter 81) | [link](https://www.commonlii.org/lk/legis/consol_act/p81214/) | excluded |
+| President's Fund (Chapter 334) | [link](https://www.commonlii.org/lk/legis/consol_act/pf334224/) | excluded |
+| Prevention of Crimes (Chapter 29) | [link](https://www.commonlii.org/lk/legis/consol_act/poc29272/) | excluded |
+| Prevention of Frauds (Chapter 84) | [link](https://www.commonlii.org/lk/legis/consol_act/pof84274/) | excluded |
+| Prevention of Social Disabilities (Chapter 33) | [link](https://www.commonlii.org/lk/legis/consol_act/posd33370/) | excluded |
+| Primary Courts' Procedure (Chapter 18) | [link](https://www.commonlii.org/lk/legis/consol_act/pcp18343/) | excluded |
+| Prisoners' Welfare Fund (Chapter 67) | [link](https://www.commonlii.org/lk/legis/consol_act/pwf67292/) | excluded |
+| Prisons (Chapter 66) | [link](https://www.commonlii.org/lk/legis/consol_act/p66167/) | excluded |
+| Privilege Leave (Private Sector) (Chapter 156) | [link](https://www.commonlii.org/lk/legis/consol_act/pls156356/) | excluded |
+| Prize Competitions (Chapter 58) | [link](https://www.commonlii.org/lk/legis/consol_act/pc58279/) | excluded |
+| Probation of Offenders (Chapter 34) | [link](https://www.commonlii.org/lk/legis/consol_act/poo34267/) | excluded |
+| Profane Publications (Chapter 41) | [link](https://www.commonlii.org/lk/legis/consol_act/pp41261/) | excluded |
+| Proof of Public Documents (Chapter 22) | [link](https://www.commonlii.org/lk/legis/consol_act/popd22310/) | excluded |
+| Protection of Produce (Chapter 46) | [link](https://www.commonlii.org/lk/legis/consol_act/pop46283/) | excluded |
+| Protection of Tenants (Special Provisions) (Chapter 598) | [link](https://www.commonlii.org/lk/legis/consol_act/potp598498/) | excluded |
+| Provincial of the Oblates in Ceylon (Chapter 442) | [link](https://www.commonlii.org/lk/legis/consol_act/potoic442378/) | excluded |
+| Public and Judicial Officers (Retirement) (Chapter 616) | [link](https://www.commonlii.org/lk/legis/consol_act/pajo616388/) | excluded |
+| Public Bodies (Prevention of Corruption) (Chapter 584) | [link](https://www.commonlii.org/lk/legis/consol_act/pboc584455/) | excluded |
+| Public Corporations (Financial Control) (Chapter 182) | [link](https://www.commonlii.org/lk/legis/consol_act/pcc182422/) | excluded |
+| Public Examinations (Chapter 382) | [link](https://www.commonlii.org/lk/legis/consol_act/pe382253/) | excluded |
+| Public Officers' (Security) (Chapter 612) | [link](https://www.commonlii.org/lk/legis/consol_act/po612306/) | excluded |
+| Public Performances (Chapter 363) | [link](https://www.commonlii.org/lk/legis/consol_act/pp363242/) | excluded |
+| Public Security (Chapter 51) | [link](https://www.commonlii.org/lk/legis/consol_act/ps51233/) | excluded |
+| Public Servants (Liabilities) (Chapter 106) | [link](https://www.commonlii.org/lk/legis/consol_act/ps106327/) | excluded |
+| Public Service Provident Fund (Chapter 621) | [link](https://www.commonlii.org/lk/legis/consol_act/pspf621350/) | excluded |
+| Publications on Horse-Racing (Chapter 56) | [link](https://www.commonlii.org/lk/legis/consol_act/poh56326/) | excluded |
+| Quarantine and Prevention of Diseases (Chapter 553) | [link](https://www.commonlii.org/lk/legis/consol_act/qapod553410/) | excluded |
+| Rabies (Chapter 575) | [link](https://www.commonlii.org/lk/legis/consol_act/r575112/) | excluded |
+| Radioactive Minerals (Chapter 342) | [link](https://www.commonlii.org/lk/legis/consol_act/rm342243/) | excluded |
+| Railway Benefit Show (Chapter 477) | [link](https://www.commonlii.org/lk/legis/consol_act/rbs477261/) | excluded |
+| Railway Daily-Paid Workers Benevolent Association (Chapter 479) | [link](https://www.commonlii.org/lk/legis/consol_act/rdwba479538/) | excluded |
+| Railway Guards and Locomotive Eniginemen's Provident Association (Chapter 478) | [link](https://www.commonlii.org/lk/legis/consol_act/rgalepa478676/) | excluded |
+| Railway Uniform Staff Benevolent Fund (Chapter 476) | [link](https://www.commonlii.org/lk/legis/consol_act/rusbf476427/) | excluded |
+| Ramakrishna Mission (Chapter 456) | [link](https://www.commonlii.org/lk/legis/consol_act/rm456257/) | excluded |
+| Rating and Valuation (Chapter 596) | [link](https://www.commonlii.org/lk/legis/consol_act/rav596249/) | excluded |
+| Ratnapura Sri Sumana Bauddha Sangamaya (Chapter 419) | [link](https://www.commonlii.org/lk/legis/consol_act/rssbs419378/) | excluded |
+| Registration of Deaths (Emergency) (Chapter 130) | [link](https://www.commonlii.org/lk/legis/consol_act/rod130363/) | excluded |
+| Registration of Dogs (Chapter 574) | [link](https://www.commonlii.org/lk/legis/consol_act/rod574267/) | excluded |
+| Registration of Electors (Chapter 2) | [link](https://www.commonlii.org/lk/legis/consol_act/roe2315/) | excluded |
+| Registration of Old Deeds and Instruments (Chapter 137) | [link](https://www.commonlii.org/lk/legis/consol_act/roodai137463/) | excluded |
+| Regulated Equipment for Agricultural Projects (Chapter 269) | [link](https://www.commonlii.org/lk/legis/consol_act/refap269524/) | excluded |
+| Rent (Chapter 597) | [link](https://www.commonlii.org/lk/legis/consol_act/r597117/) | excluded |
+| Requisitioning and Acquisition of Lorries (Chapter 533) | [link](https://www.commonlii.org/lk/legis/consol_act/raaol533486/) | excluded |
+| Requisitioning of Land (Chapter 298) | [link](https://www.commonlii.org/lk/legis/consol_act/rol298282/) | excluded |
+| Requisitioning of Motor Vehicles and Agricultural Equipment (Chapter 200) | [link](https://www.commonlii.org/lk/legis/consol_act/romvaae200664/) | excluded |
+| Resumption of State Land (Anuradhapura Preservation Board) (Chapter 582) | [link](https://www.commonlii.org/lk/legis/consol_act/roslpb582607/) | excluded |
+| Revenue Collection (Chapter 361) | [link](https://www.commonlii.org/lk/legis/consol_act/rc361245/) | excluded |
+| Revenue Protection (Chapter 360) | [link](https://www.commonlii.org/lk/legis/consol_act/rp360272/) | excluded |
+| Rice Reserves (Chapter 213) | [link](https://www.commonlii.org/lk/legis/consol_act/rr213198/) | excluded |
+| Rifai Thareeq Association (Chapter 466) | [link](https://www.commonlii.org/lk/legis/consol_act/rta466283/) | excluded |
+| Riot Damages (Chapter 88) | [link](https://www.commonlii.org/lk/legis/consol_act/rd88165/) | excluded |
+| River Valleys Development Board (Chapter 586) | [link](https://www.commonlii.org/lk/legis/consol_act/rvdb586375/) | excluded |
+| Roman Catholic Archbishop (Chapter 441) | [link](https://www.commonlii.org/lk/legis/consol_act/rca441272/) | excluded |
+| Rome Convention (Chapter 231) | [link](https://www.commonlii.org/lk/legis/consol_act/rc231232/) | excluded |
+| Saiva Paripalana Sabhai (Chapter 457) | [link](https://www.commonlii.org/lk/legis/consol_act/sps457224/) | excluded |
+| Sale of Goods (Chapter 93) | [link](https://www.commonlii.org/lk/legis/consol_act/sog93171/) | excluded |
+| Sales Tax (Chapter 351) | [link](https://www.commonlii.org/lk/legis/consol_act/st351157/) | excluded |
+| Salt (Chapter 343) | [link](https://www.commonlii.org/lk/legis/consol_act/s343112/) | excluded |
+| Salvation Army (Chapter 436) | [link](https://www.commonlii.org/lk/legis/consol_act/sa436221/) | excluded |
+| Sambuddha Jayanthi Chaitya Trust (Chapter 422) | [link](https://www.commonlii.org/lk/legis/consol_act/sjct422361/) | excluded |
+| Sannases and Old Deeds (Chapter 136) | [link](https://www.commonlii.org/lk/legis/consol_act/saod136224/) | excluded |
+| School Teachers Pension (Chapter 620) | [link](https://www.commonlii.org/lk/legis/consol_act/stp620286/) | excluded |
+| Senkadagala Eksath Bauddha Mandalaya (Chapter 417) | [link](https://www.commonlii.org/lk/legis/consol_act/sebm417284/) | excluded |
+| Serendib Sufi Study Circle (Chapter 495) | [link](https://www.commonlii.org/lk/legis/consol_act/sssc495311/) | excluded |
+| Service Contracts (Chapter 171) | [link](https://www.commonlii.org/lk/legis/consol_act/sc171242/) | excluded |
+| Servicemen (Collection and Disposal of Specified Property) (Chapter 628) | [link](https://www.commonlii.org/lk/legis/consol_act/sadosp628579/) | excluded |
+| Sex Disqualification Removal (Chapter 78) | [link](https://www.commonlii.org/lk/legis/consol_act/sdr78341/) | excluded |
+| Short Titles (Numeration) (Chapter 13) | [link](https://www.commonlii.org/lk/legis/consol_act/st13338/) | excluded |
+| Silk and Allied Products Development (Chapter 193) | [link](https://www.commonlii.org/lk/legis/consol_act/saapd193392/) | excluded |
+| Silkworm Seed (Chapter 192) | [link](https://www.commonlii.org/lk/legis/consol_act/ss192205/) | excluded |
+| Sinhala Welenda Mandalaya (Chapter 507) | [link](https://www.commonlii.org/lk/legis/consol_act/swm507241/) | excluded |
+| Siri Anuradhapura Bastian Pilgrims Rest (Chapter 418) | [link](https://www.commonlii.org/lk/legis/consol_act/sabpr418439/) | excluded |
+| Societies (Chapter 141) | [link](https://www.commonlii.org/lk/legis/consol_act/s141159/) | excluded |
+| Special Allowances of Workers (Chapter 167) | [link](https://www.commonlii.org/lk/legis/consol_act/saow167338/) | excluded |
+| Special Areas (Colombo) Development (Chapter 604) | [link](https://www.commonlii.org/lk/legis/consol_act/sad604349/) | excluded |
+| Special Fund (Voluntary Contributions For Charitable Purposes) (Chapter 335) | [link](https://www.commonlii.org/lk/legis/consol_act/sfcfcp335694/) | excluded |
+| Special Presidential Commissions of Inquiry (Chapter 9) | [link](https://www.commonlii.org/lk/legis/consol_act/spcoi9504/) | excluded |
+| Special Stamps (Chapter 359) | [link](https://www.commonlii.org/lk/legis/consol_act/ss359204/) | excluded |
+| Sports (Chapter 392) | [link](https://www.commonlii.org/lk/legis/consol_act/s392165/) | excluded |
+| Sree Narayana Guru Society (Chapter 503) | [link](https://www.commonlii.org/lk/legis/consol_act/sngs503326/) | excluded |
+| Sri Lanka Association for the Advancement of Science (Chapter 496) | [link](https://www.commonlii.org/lk/legis/consol_act/slaftaos496482/) | excluded |
+| Sri Lanka Broadcasting Corporation (Chapter 365) | [link](https://www.commonlii.org/lk/legis/consol_act/slbc365375/) | excluded |
+| Sri Lanka Ex-Servicemen's Institute (Chapter 515) | [link](https://www.commonlii.org/lk/legis/consol_act/slei515417/) | excluded |
+| Sri Lanka Ex-Servicemens' Association (Chapter 636) | [link](https://www.commonlii.org/lk/legis/consol_act/slea636403/) | excluded |
+| Sri Lanka Export Credit Insurance Corporation (Chapter 333) | [link](https://www.commonlii.org/lk/legis/consol_act/slecic333514/) | excluded |
+| Sri Lanka Export Development (Chapter 228) | [link](https://www.commonlii.org/lk/legis/consol_act/sled228353/) | excluded |
+| Sri Lanka Fruit Board (Chapter 196) | [link](https://www.commonlii.org/lk/legis/consol_act/slfb196245/) | excluded |
+| Sri Lanka Institute of Marketing (Chapter 201) | [link](https://www.commonlii.org/lk/legis/consol_act/sliom201377/) | excluded |
+| Sri Lanka Inventors Incentives (Chapter 212) | [link](https://www.commonlii.org/lk/legis/consol_act/slii212378/) | excluded |
+| Sri Lanka Library Association (Chapter 494) | [link](https://www.commonlii.org/lk/legis/consol_act/slla494333/) | excluded |
+| Sri Lanka Malay Association Rupee Fund (Chapter 504) | [link](https://www.commonlii.org/lk/legis/consol_act/slmarf504403/) | excluded |
+| Sri Lanka Press Council (Chapter 378) | [link](https://www.commonlii.org/lk/legis/consol_act/slpc378283/) | excluded |
+| Sri Lanka Sahitya Mandalya (Chapter 471) | [link](https://www.commonlii.org/lk/legis/consol_act/slsm471280/) | excluded |
+| Sri Lanka State Plantations Corporation (Chapter 264) | [link](https://www.commonlii.org/lk/legis/consol_act/slspc264464/) | excluded |
+| Sri Punniyawardhana Samithiya of Matale (Chapter 416) | [link](https://www.commonlii.org/lk/legis/consol_act/spsom416423/) | excluded |
+| St. Andrew's Church (Chapter 435) | [link](https://www.commonlii.org/lk/legis/consol_act/sac435233/) | excluded |
+| St. Thomas College (Chapter 489) | [link](https://www.commonlii.org/lk/legis/consol_act/stc489223/) | excluded |
+| State (Liabilities in Delict) (Chapter 108) | [link](https://www.commonlii.org/lk/legis/consol_act/sid108288/) | excluded |
+| State Agricultural Corporation (Chapter 268) | [link](https://www.commonlii.org/lk/legis/consol_act/sac268388/) | excluded |
+| State Debtors (Chapter 102) | [link](https://www.commonlii.org/lk/legis/consol_act/sd102200/) | excluded |
+| State Industrial Corporations (Chapter 208) | [link](https://www.commonlii.org/lk/legis/consol_act/sic208392/) | excluded |
+| State Land (Claims) (Chapter 294) | [link](https://www.commonlii.org/lk/legis/consol_act/sl294202/) | excluded |
+| State Landmarks (Chapter 291) | [link](https://www.commonlii.org/lk/legis/consol_act/sl291208/) | excluded |
+| State Lands Encroachments (Chapter 288) | [link](https://www.commonlii.org/lk/legis/consol_act/sle288294/) | excluded |
+| Statistics (Chapter 372) | [link](https://www.commonlii.org/lk/legis/consol_act/s372193/) | excluded |
+| Statutory Reprints (Chapter 14) | [link](https://www.commonlii.org/lk/legis/consol_act/sr14325/) | excluded |
+| Street Collections (Chapter 611) | [link](https://www.commonlii.org/lk/legis/consol_act/sc611261/) | excluded |
+| Suburban Dairies and Launderies (Chapter 565) | [link](https://www.commonlii.org/lk/legis/consol_act/sdal565326/) | excluded |
+| Supplementary Allowance of Workers (Chapter 168) | [link](https://www.commonlii.org/lk/legis/consol_act/saow168434/) | excluded |
+| Surveyors (Chapter 123) | [link](https://www.commonlii.org/lk/legis/consol_act/s123217/) | excluded |
+| Tea Small Holdings Development (Chapter 252) | [link](https://www.commonlii.org/lk/legis/consol_act/tshd252339/) | excluded |
+| Telecommunications (Chapter 521) | [link](https://www.commonlii.org/lk/legis/consol_act/t521257/) | excluded |
+| Telegram Copyright (Chapter 187) | [link](https://www.commonlii.org/lk/legis/consol_act/tc187249/) | excluded |
+| Temple Lands (Chapter 296) | [link](https://www.commonlii.org/lk/legis/consol_act/tl296174/) | excluded |
+| Temporary Levy on Salaries of Public Servants (Chapter 614) | [link](https://www.commonlii.org/lk/legis/consol_act/tlosops614535/) | excluded |
+| Temporary Residence Tax (Chapter 246) | [link](https://www.commonlii.org/lk/legis/consol_act/trt246301/) | excluded |
+| Termination of Employment of Workmen (Chapter 154) | [link](https://www.commonlii.org/lk/legis/consol_act/toeow154449/) | excluded |
+| The "Tesawalamai" (Chapter 73) | [link](https://www.commonlii.org/lk/legis/consol_act/t73188/) | excluded |
+| Thesawalamai Pre-emption (Chapter 74) | [link](https://www.commonlii.org/lk/legis/consol_act/tp74286/) | excluded |
+| Thoroughfares (Chapter 522) | [link](https://www.commonlii.org/lk/legis/consol_act/t522212/) | excluded |
+| Tindus (Chapter 163) | [link](https://www.commonlii.org/lk/legis/consol_act/t163145/) | excluded |
+| Tobacco Tax (Chapter 355) | [link](https://www.commonlii.org/lk/legis/consol_act/tt355158/) | excluded |
+| Tolls (Chapter 525) | [link](https://www.commonlii.org/lk/legis/consol_act/t525137/) | excluded |
+| Tower Hall Theatre Foundation (Chapter 367) | [link](https://www.commonlii.org/lk/legis/consol_act/thtf367348/) | excluded |
+| Town Councils (Chapter 578) | [link](https://www.commonlii.org/lk/legis/consol_act/tc578220/) | excluded |
+| Trade Union Representatives (Entry into Requirements) (Chapter 175) | [link](https://www.commonlii.org/lk/legis/consol_act/turir175639/) | excluded |
+| Trade Unions (Chapter 174) | [link](https://www.commonlii.org/lk/legis/consol_act/tu174193/) | excluded |
+| Transfer of Powers (Anuradhapura Preservation Board) (Chapter 581) | [link](https://www.commonlii.org/lk/legis/consol_act/toppb581563/) | excluded |
+| Treasure Trove (Chapter 395) | [link](https://www.commonlii.org/lk/legis/consol_act/tt395238/) | excluded |
+| Trust Receipts (Chapter 95) | [link](https://www.commonlii.org/lk/legis/consol_act/tr95244/) | excluded |
+| Trusts (Chapter 96) | [link](https://www.commonlii.org/lk/legis/consol_act/t96175/) | excluded |
+| Uniforms (Chapter 49) | [link](https://www.commonlii.org/lk/legis/consol_act/u49171/) | excluded |
+| United Nations (Chapter 10) | [link](https://www.commonlii.org/lk/legis/consol_act/un10216/) | excluded |
+| Universities (Chapter 383) | [link](https://www.commonlii.org/lk/legis/consol_act/u383222/) | excluded |
+| Urban Development Projects (Special Provisions) (Chapter 603) | [link](https://www.commonlii.org/lk/legis/consol_act/udpp603537/) | excluded |
+| Uva Young Men's Buddhist Association (Chapter 402) | [link](https://www.commonlii.org/lk/legis/consol_act/uymba402422/) | excluded |
+| Vaccination (Chapter 561) | [link](https://www.commonlii.org/lk/legis/consol_act/v561164/) | excluded |
+| Vagrants (Chapter 44) | [link](https://www.commonlii.org/lk/legis/consol_act/v44158/) | excluded |
+| Validation of Registrars' Proceedings (Chapter 139) | [link](https://www.commonlii.org/lk/legis/consol_act/vorp139408/) | excluded |
+| Vehicles (Chapter 534) | [link](https://www.commonlii.org/lk/legis/consol_act/v534139/) | excluded |
+| Venereal Diseases (Chapter 556) | [link](https://www.commonlii.org/lk/legis/consol_act/vd556211/) | excluded |
+| Veterinary Surgeons and Practitioners (Chapter 118) | [link](https://www.commonlii.org/lk/legis/consol_act/vsap118471/) | excluded |
+| Victoria Home for Incurables (Chapter 510) | [link](https://www.commonlii.org/lk/legis/consol_act/vhfi510320/) | excluded |
+| Vidyalankara Sabha (Chapter 491) | [link](https://www.commonlii.org/lk/legis/consol_act/vs491197/) | excluded |
+| Vidyaniketa Sanrakshaka Sabha (Chapter 424) | [link](https://www.commonlii.org/lk/legis/consol_act/vss424293/) | excluded |
+| Village Councils (Chapter 579) | [link](https://www.commonlii.org/lk/legis/consol_act/vc579213/) | excluded |
+| Visiting Forces (Chapter 629) | [link](https://www.commonlii.org/lk/legis/consol_act/vf629225/) | excluded |
+| Voluntary Social Services Organizations (Registration and Supervision) (Chapter 370) | [link](https://www.commonlii.org/lk/legis/consol_act/vssoas370818/) | excluded |
+| Water Hyacinth (Chapter 277) | [link](https://www.commonlii.org/lk/legis/consol_act/wh277206/) | excluded |
+| Water Resources Board (Chapter 280) | [link](https://www.commonlii.org/lk/legis/consol_act/wrb280275/) | excluded |
+| Weights and Measures (Chapter 188) | [link](https://www.commonlii.org/lk/legis/consol_act/wam188257/) | excluded |
+| Wells and Pits (Chapter 564) | [link](https://www.commonlii.org/lk/legis/consol_act/wap564206/) | excluded |
+| Whaling (Chapter 244) | [link](https://www.commonlii.org/lk/legis/consol_act/w244131/) | excluded |
+| Widows' and Orphans' Pension Scheme (Armed Forces) (Chapter 619) | [link](https://www.commonlii.org/lk/legis/consol_act/waopsf619479/) | excluded |
+| Wildlife Protection Society (Chapter 569) | [link](https://www.commonlii.org/lk/legis/consol_act/wps569350/) | excluded |
+| Wills (Chapter 75) | [link](https://www.commonlii.org/lk/legis/consol_act/w75134/) | excluded |
+| Workmen's Compensation (Chapter 158) | [link](https://www.commonlii.org/lk/legis/consol_act/wc158306/) | excluded |
+| Yong Men's Buddhist Association, Wadduwa (Chapter 410) | [link](https://www.commonlii.org/lk/legis/consol_act/ymbaw410431/) | excluded |
+| Young Men's Buddhist Association, Dehiwala- Mt.Lavinia (Chapter 408) | [link](https://www.commonlii.org/lk/legis/consol_act/ymbadm408528/) | excluded |
+| Young Men's Buddhist Association, Maggona (Chapter 412) | [link](https://www.commonlii.org/lk/legis/consol_act/ymbam412432/) | excluded |
+| Young Men's Buddhist Association, Mahiyangana (Chapter 409) | [link](https://www.commonlii.org/lk/legis/consol_act/ymbam409464/) | excluded |
+| Young Men's Buddhist Association, Matara (Chapter 411) | [link](https://www.commonlii.org/lk/legis/consol_act/ymbam411429/) | excluded |
+| Young Men's Muslim Association, Maligawatta (Chapter 462) | [link](https://www.commonlii.org/lk/legis/consol_act/ymmam462480/) | excluded |
+| Youthful Offenders (Training Schools) (Chapter 35) | [link](https://www.commonlii.org/lk/legis/consol_act/yos35435/) | excluded |
