@@ -1,16 +1,15 @@
-# Sri Lankan Law MCP Server
+# Sri Lanka Law MCP Server
 
-**The Sri Lanka Law alternative for the AI age.**
+**The LawNet Sri Lanka alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/%40ansvar/sri lanka-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/sri lanka-law-mcp)
+[![npm version](https://badge.fury.io/js/@ansvar%2Fsrilanka-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/srilanka-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Sri Lanka-law-mcp?style=social)](https://github.com/Ansvar-Systems/Sri Lanka-law-mcp)
-[![CI](https://github.com/Ansvar-Systems/Sri Lanka-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Sri Lanka-law-mcp/actions/workflows/ci.yml)
-[![Database](https://img.shields.io/badge/database-pre--built-green)]()
-[![Provisions](https://img.shields.io/badge/provisions-21%2C559-blue)]()
+[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Srilanka-law-mcp?style=social)](https://github.com/Ansvar-Systems/Srilanka-law-mcp)
+[![CI](https://github.com/Ansvar-Systems/Srilanka-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Srilanka-law-mcp/actions/workflows/ci.yml)
+[![Provisions](https://img.shields.io/badge/provisions-32%2C790-blue)](https://github.com/Ansvar-Systems/Srilanka-law-mcp)
 
-Query **494 Sri Lankan Acts** -- from the Data Protection Act and Computer Misuse and Cybercrimes Act to the Companies Act, Constitution of Sri Lanka, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **2,055 Sri Lankan laws** -- from the Personal Data Protection Act No. 9 of 2022 and the Penal Code to the Companies Act No. 7 of 2007, Termination of Employment Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Sri Lankan legal research, this is your verified reference database.
 
@@ -20,13 +19,13 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Sri Lankan legal research is scattered across Sri Lanka Law Reports, the Sri Lanka Gazette, and various government portals. Whether you're:
-- A **lawyer** validating citations in a brief or contract under Sri Lankan law
-- A **compliance officer** checking if the Data Protection Act 2019 provisions apply to your processing activities
-- A **legal tech developer** building tools on Sri Lankan legislation
-- A **researcher** tracing legislative history from colonial-era statutes to the 2010 Constitution
+Sri Lankan legal research means navigating lawnet.gov.lk, parliament.lk, and commonlii.org across a body of legislation spanning the colonial-era Ordinances, post-independence Acts, and recent digital-era statutes. Whether you're:
+- A **lawyer** validating citations in a brief or contract
+- A **compliance officer** checking obligations under the Personal Data Protection Act No. 9 of 2022
+- A **legal tech developer** building tools on Sri Lankan law
+- A **researcher** tracing legislative history across 2,055 Acts and Ordinances
 
-...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
+...you shouldn't need dozens of browser tabs and manual cross-referencing. Ask Claude. Get the exact provision. With context.
 
 This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-readable**.
 
@@ -38,12 +37,12 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://sri lanka-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://srilanka-law-mcp.vercel.app/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add sri lanka-law --transport http https://sri lanka-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add srilanka-law --transport http https://srilanka-law-mcp.vercel.app/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -52,9 +51,9 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
 ```json
 {
   "mcpServers": {
-    "sri lanka-law": {
+    "srilanka-law": {
       "type": "url",
-      "url": "https://sri lanka-law-mcp.vercel.app/mcp"
+      "url": "https://srilanka-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -65,9 +64,9 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
 ```json
 {
   "github.copilot.chat.mcp.servers": {
-    "sri lanka-law": {
+    "srilanka-law": {
       "type": "http",
-      "url": "https://sri lanka-law-mcp.vercel.app/mcp"
+      "url": "https://srilanka-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -76,7 +75,7 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
 ### Use Locally (npm)
 
 ```bash
-npx @ansvar/sri lanka-law-mcp
+npx @ansvar/srilanka-law-mcp
 ```
 
 **Claude Desktop** -- add to `claude_desktop_config.json`:
@@ -87,9 +86,9 @@ npx @ansvar/sri lanka-law-mcp
 ```json
 {
   "mcpServers": {
-    "sri lanka-law": {
+    "srilanka-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/sri lanka-law-mcp"]
+      "args": ["-y", "@ansvar/srilanka-law-mcp"]
     }
   }
 }
@@ -100,9 +99,9 @@ npx @ansvar/sri lanka-law-mcp
 ```json
 {
   "mcp.servers": {
-    "sri lanka-law": {
+    "srilanka-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/sri lanka-law-mcp"]
+      "args": ["-y", "@ansvar/srilanka-law-mcp"]
     }
   }
 }
@@ -114,37 +113,64 @@ npx @ansvar/sri lanka-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Data Protection Act 2019 say about consent?"*
-- *"Is the Companies Act 2015 still in force?"*
-- *"Find provisions about cybersecurity in the Computer Misuse and Cybercrimes Act"*
-- *"What does the Constitution of Sri Lanka say about the right to privacy?"*
-- *"Search for data breach notification requirements in Sri Lankan law"*
-- *"What are the obligations under the National Payment Systems Act?"*
-- *"Validate this legal citation"*
-- *"Build a legal stance on personal data processing in Sri Lanka"*
+- *"What does the Personal Data Protection Act No. 9 of 2022 say about consent?"*
+- *"Find provisions in the Penal Code about cybercrime"*
+- *"Search for employment law under the Termination of Employment of Workmen Act"*
+- *"Is the Computer Crimes Act No. 24 of 2007 still in force?"*
+- *"What does the Companies Act No. 7 of 2007 say about director duties?"*
+- *"Find provisions about intellectual property under the Intellectual Property Act"*
+- *"Validate the citation 'Section 5 Personal Data Protection Act No. 9 of 2022'"*
+- *"ව්‍යවස්ථාවෙහි සෞඛ්‍ය හිමිකම් ගැන කොතැනද?"*
 
 ---
 
-## Key Legislation Covered
+## What's Included
 
-| Act | Year | Significance |
-|-----|------|-------------|
-| **Data Protection Act** | 2019 | Comprehensive data protection law modeled on EU GDPR; established the Office of the Data Protection Commissioner (ODPC) |
-| **Computer Misuse and Cybercrimes Act** | 2018 | Comprehensive cybercrime legislation (note: Sections 22, 23, 24, 27, and 53 were partially suspended by the High Court pending constitutional review) |
-| **Sri Lanka Information and Communications Act** | 1998 (amended) | Regulates telecommunications and ICT sector; establishes the Communications Authority of Sri Lanka |
-| **Companies Act** | 2015 | Modern company law framework replacing the Companies Act (Cap 486) |
-| **Consumer Protection Act** | 2012 | Consumer rights and fair trade practices |
-| **Access to Information Act** | 2016 | Right to access government-held information |
-| **National Payment Systems Act** | 2011 | Regulation of payment systems including mobile money (M-Pesa) |
-| **Constitution of Sri Lanka** | 2010 | Supreme law; Article 31 guarantees the right to privacy |
+| Category | Count | Details |
+|----------|-------|---------|
+| **Statutes** | 2,055 laws | Comprehensive Sri Lankan legislation from commonlii.org/lk |
+| **Provisions** | 32,790 sections | Full-text searchable with FTS5 |
+| **Database Size** | ~48 MB | Optimized SQLite, portable |
+| **Legal Definitions** | Table reserved | Extraction planned for upcoming release |
+| **Freshness Checks** | Automated | Drift detection against official sources |
+
+**Verified data only** -- every citation is validated against official sources (LawNet, Parliament of Sri Lanka). Zero LLM-generated content.
 
 ---
 
-## Deployment Tier
+## Why This Works
 
-**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from [commonlii.org/lk](https://www.commonlii.org/lk), [lawnet.gov.lk](https://lawnet.gov.lk), and [parliament.lk](https://parliament.lk)
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains statute text, not AI interpretations
 
-**Estimated database size:** ~80-150 MB (full corpus of Sri Lankan federal legislation)
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by Act identifier + section number
+- Cross-references help navigate without loading everything at once
+
+**Technical Architecture:**
+```
+commonlii.org/lk / lawnet.gov.lk --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                                       ^                        ^
+                                Provision parser         Verbatim database query
+```
+
+### Traditional Research vs. This MCP
+
+| Traditional Approach | This MCP Server |
+|---------------------|-----------------|
+| Search lawnet.gov.lk by Act name | Search by plain English: *"personal data processing consent"* |
+| Navigate multi-section statutes manually | Get the exact provision with context |
+| Manual cross-referencing between Acts | `build_legal_stance` aggregates across sources |
+| "Is this Act still in force?" -- check manually | `check_currency` tool -- answer in seconds |
+| Find SAARC/Commonwealth alignment -- search manually | `get_eu_basis` -- linked frameworks instantly |
+| No API, no integration | MCP protocol -- AI-native |
+
+**Traditional:** Search LawNet -> Navigate HTML -> Ctrl+F -> Cross-reference between Acts -> Repeat
+
+**This MCP:** *"What are the data controller obligations under the Personal Data Protection Act No. 9 of 2022?"* -> Done.
 
 ---
 
@@ -154,56 +180,40 @@ Once connected, just ask naturally:
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
-| `get_provision` | Retrieve specific provision by statute + chapter/section |
-| `check_currency` | Check if statute is in force, amended, or repealed |
-| `validate_citation` | Validate citation against database (zero-hallucination check) |
-| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
-| `format_citation` | Format citations per Sri Lankan conventions (full/short/pinpoint) |
-| `list_sources` | List all available statutes with metadata |
-| `about` | Server info, capabilities, and coverage summary |
+| `search_legislation` | FTS5 full-text search across 32,790 provisions with BM25 ranking. Supports English, Sinhala, and Tamil queries |
+| `get_provision` | Retrieve specific provision by Act identifier + section number |
+| `check_currency` | Check if a statute is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database -- zero-hallucination check |
+| `build_legal_stance` | Aggregate citations from multiple statutes for a legal topic |
+| `format_citation` | Format citations per Sri Lankan legal conventions (Act No., year) |
+| `list_sources` | List all available statutes with metadata, coverage scope, and data provenance |
+| `about` | Server info, capabilities, dataset statistics, and coverage summary |
 
-### EU/International Law Integration Tools (5)
+### International Law Integration Tools (5)
 
 | Tool | Description |
 |------|-------------|
-| `get_eu_basis` | Get EU directives/regulations for Sri Lankan statute |
-| `get_sri lankan_implementations` | Find Sri Lankan laws implementing EU act |
-| `search_eu_implementations` | Search EU documents with Sri Lankan implementation counts |
-| `get_provision_eu_basis` | Get EU law references for specific provision |
-| `validate_eu_compliance` | Check implementation status of EU directives |
+| `get_eu_basis` | Get EU directives/regulations that a Sri Lankan statute aligns with (e.g., PDPA 2022 and GDPR principles) |
+| `get_srilanka_implementations` | Find Sri Lankan laws aligning with a specific international framework |
+| `search_eu_implementations` | Search EU documents with Sri Lankan alignment counts |
+| `get_provision_eu_basis` | Get international law references for a specific provision |
+| `validate_eu_compliance` | Check alignment status of Sri Lankan statutes against EU/SAARC frameworks |
 
 ---
 
-## Why This Works
+## International Law Alignment
 
-**Verbatim Source Text (No LLM Processing):**
-- All statute text is ingested from official Sri Lankan government sources
-- Provisions are returned **unchanged** from SQLite FTS5 database rows
-- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
+Sri Lanka is not an EU member state. The international alignment tools cover the frameworks that matter for Sri Lankan law practice:
 
-**Smart Context Management:**
-- Search returns ranked provisions with BM25 scoring (safe for context)
-- Provision retrieval gives exact text by statute identifier + chapter/section
-- Cross-references help navigate without loading everything at once
+- **SAARC frameworks** -- South Asian Association for Regional Cooperation conventions and model laws
+- **Commonwealth** -- Commonwealth legal frameworks and model laws
+- **Personal Data Protection Act No. 9 of 2022** aligns with international data protection principles, closely modelled on GDPR; the `get_eu_basis` tool maps provisions to their GDPR equivalents for cross-reference
+- **Computer Crimes Act No. 24 of 2007** aligns with the Budapest Convention on Cybercrime (Commonwealth model)
+- **Employment Acts** align with ILO conventions
 
-**Technical Architecture:**
-```
-Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
-                     ^                       ^
-              Provision parser         Verbatim database query
-```
+The international bridge tools allow you to explore alignment relationships -- checking which Sri Lankan provisions correspond to SAARC or international requirements, and vice versa.
 
-### Traditional Research vs. This MCP
-
-| Traditional Approach | This MCP Server |
-|---------------------|-----------------|
-| Search official databases by statute number | Search by plain language |
-| Navigate multi-chapter statutes manually | Get the exact provision with context |
-| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
-| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
-| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
-| No API, no integration | MCP protocol --> AI-native |
+> **Note:** International cross-references reflect alignment and treaty obligations, not formal transposition. Sri Lanka adopts its own legislative approach, and these tools help identify where Sri Lankan and international law address similar domains.
 
 ---
 
@@ -211,7 +221,29 @@ Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
 
 All content is sourced from authoritative Sri Lankan legal databases:
 
-- **[Sri Lanka Law Reports](https://sri lankalaw.org)** -- Official Sri Lankan government legal database
+- **[CommonLII Sri Lanka](https://www.commonlii.org/lk/)** -- Commonwealth Legal Information Institute Sri Lanka collection
+- **[LawNet](https://lawnet.gov.lk/)** -- Official government law portal (Ministry of Justice)
+- **[Parliament of Sri Lanka](https://parliament.lk/)** -- Official parliamentary records and Bills
+
+### Data Provenance
+
+| Field | Value |
+|-------|-------|
+| **Authority** | LawNet (Ministry of Justice), Parliament of Sri Lanka |
+| **Primary legal language** | English (Sinhala and Tamil are also official languages) |
+| **License** | Public domain (government publications) |
+| **Coverage** | 2,055 Sri Lankan Acts, Ordinances, and statutory instruments |
+| **Last ingested** | 2026-02-28 |
+
+### Automated Freshness Checks
+
+A [GitHub Actions workflow](.github/workflows/check-updates.yml) monitors Sri Lankan legal sources for changes:
+
+| Check | Method |
+|-------|--------|
+| **Statute amendments** | Drift detection against known provision anchors |
+| **New statutes** | Comparison against LawNet and CommonLII indexes |
+| **Repealed statutes** | Status change detection |
 
 **Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
 
@@ -240,17 +272,23 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 
 > **THIS TOOL IS NOT LEGAL ADVICE**
 >
-> Statute text is sourced from official Sri Lankan government publications. However:
+> Statute text is sourced from LawNet, CommonLII, and Parliament of Sri Lanka official sources. However:
 > - This is a **research tool**, not a substitute for professional legal counsel
-> - **Court case coverage is limited** -- do not rely solely on this for case law research
-> - **Verify critical citations** against primary sources for court filings
-> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+> - **Court case coverage is not included** -- do not rely solely on this for case law research
+> - **Verify critical citations** against primary sources before court filings
+> - **International cross-references** reflect alignment relationships, not formal transposition
+> - **Sinhala and Tamil versions** of statutes are official -- verify non-English text against primary sources
+> - **Colonial-era Ordinances** may have complex application -- verify current status carefully
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
 
 ### Client Confidentiality
 
 Queries go through the Claude API. For privileged or confidential matters, use on-premise deployment.
+
+### Bar Association Reference
+
+For professional use, consult the **Bar Association of Sri Lanka (BASL)** guidelines on AI-assisted legal research.
 
 ---
 
@@ -259,8 +297,8 @@ Queries go through the Claude API. For privileged or confidential matters, use o
 ### Setup
 
 ```bash
-git clone https://github.com/Ansvar-Systems/Sri Lanka-law-mcp
-cd Sri Lanka-law-mcp
+git clone https://github.com/Ansvar-Systems/Srilanka-law-mcp
+cd Srilanka-law-mcp
 npm install
 npm run build
 npm test
@@ -272,6 +310,22 @@ npm test
 npm run dev                                       # Start MCP server
 npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
 ```
+
+### Data Management
+
+```bash
+npm run ingest              # Ingest statutes from commonlii.org/lk and lawnet.gov.lk
+npm run build:db            # Rebuild SQLite database
+npm run drift:detect        # Run drift detection against anchors
+npm run check-updates       # Check for source updates
+npm run census              # Generate coverage census
+```
+
+### Performance
+
+- **Search Speed:** <100ms for most FTS5 queries
+- **Database Size:** ~48 MB (efficient, portable)
+- **Reliability:** 100% ingestion success rate across 2,055 laws
 
 ---
 
@@ -288,10 +342,7 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 ### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
 **Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
 
-### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
-**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
-
-**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Sri Lanka, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+**80+ national law MCPs** covering Tanzania, Namibia, Uganda, Dominican Republic, Paraguay, India, Singapore, Australia, and more.
 
 ---
 
@@ -300,23 +351,25 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 Priority areas:
-- Court case law expansion
-- EU cross-reference improvements
-- Historical statute versions and amendment tracking
-- Additional statutory instruments and regulations
+- Court case law expansion (Supreme Court and Court of Appeal from CommonLII)
+- Sinhala and Tamil provision text
+- SAARC treaty cross-references
+- Colonial-era Ordinance amendment tracking
+- Historical statute versions
 
 ---
 
 ## Roadmap
 
 - [x] Core statute database with FTS5 search
-- [x] EU/international law cross-references
+- [x] Full corpus ingestion (2,055 laws, 32,790 provisions)
+- [x] International law alignment tools
 - [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
-- [ ] Court case law expansion
-- [ ] Historical statute versions (amendment tracking)
-- [ ] Preparatory works / explanatory memoranda
-- [ ] Lower court and tribunal decisions
+- [ ] Court case law expansion (Supreme Court, Court of Appeal)
+- [ ] Sinhala and Tamil provision text
+- [ ] SAARC convention cross-references
+- [ ] Historical statute versions
 
 ---
 
@@ -325,12 +378,12 @@ Priority areas:
 If you use this MCP server in academic research:
 
 ```bibtex
-@software{sri lanka_law_mcp_2025,
+@software{srilanka_law_mcp_2026,
   author = {Ansvar Systems AB},
-  title = {Sri Lankan Law MCP Server: AI-Powered Legal Research Tool},
-  year = {2025},
-  url = {https://github.com/Ansvar-Systems/Sri Lanka-law-mcp},
-  note = {Sri Lankan legal database with full-text search and EU cross-references}
+  title = {Sri Lanka Law MCP Server: AI-Powered Legal Research Tool},
+  year = {2026},
+  url = {https://github.com/Ansvar-Systems/Srilanka-law-mcp},
+  note = {2,055 Sri Lankan laws with 32,790 provisions}
 }
 ```
 
@@ -342,16 +395,17 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Sri Lankan Government (public domain)
-- **EU Metadata:** EUR-Lex (EU public domain)
+- **Statutes & Legislation:** Government of Sri Lanka (public domain)
+- **CommonLII data:** Commonwealth Legal Information Institute (open access)
+- **International Metadata:** Public domain
 
 ---
 
 ## About Ansvar Systems
 
-We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
+We build AI-accelerated compliance and legal research tools for the global market. This MCP server makes Sri Lankan law accessible to legal professionals and compliance teams worldwide.
 
-So we're open-sourcing it.
+So we're open-sourcing it. Navigating 2,055 Acts and Ordinances shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 
