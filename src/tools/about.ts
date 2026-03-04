@@ -44,7 +44,7 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       {
         name: 'LawNet Sri Lanka',
         url: 'https://www.lawnet.gov.lk',
-        authority: 'Attorney General's Department',
+        authority: 'Attorney General\'s Department',
       },
     ],
     freshness: {
