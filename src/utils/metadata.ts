@@ -9,6 +9,8 @@ export interface ResponseMetadata {
   jurisdiction: string;
   disclaimer: string;
   freshness?: string;
+  note?: string;
+  query_strategy?: string;
 }
 
 export interface ToolResponse<T> {
@@ -31,10 +33,10 @@ export function generateResponseMetadata(
 
   return {
     data_source: 'Sri Lanka Law (lawnet.gov.lk) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    jurisdiction: 'LK',
     disclaimer:
       'This data is sourced from Sri Lanka Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
+      'The authoritative versions are in English and Sinhala. Tamil translations may be available for some documents. ' +
       'Always verify with the official Sri Lanka Law portal (lawnet.gov.lk).',
     freshness,
   };
