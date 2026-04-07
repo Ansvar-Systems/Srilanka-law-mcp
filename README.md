@@ -37,12 +37,12 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://srilanka-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-lk/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add srilanka-law --transport http https://srilanka-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add srilanka-law --transport http https://mcp.ansvar.eu/law-lk/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -53,7 +53,7 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
   "mcpServers": {
     "srilanka-law": {
       "type": "url",
-      "url": "https://srilanka-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-lk/mcp"
     }
   }
 }
@@ -66,7 +66,7 @@ This MCP server makes Sri Lankan law **searchable, cross-referenceable, and AI-r
   "github.copilot.chat.mcp.servers": {
     "srilanka-law": {
       "type": "http",
-      "url": "https://srilanka-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-lk/mcp"
     }
   }
 }
